@@ -1,0 +1,1409 @@
+"Año","Clave_Ent","Entidad","Subtipo de delito","Sexo","Rango de edad","Total"
+2015,1,"Aguascalientes","Homicidio doloso","Hombre","Adultos (18 y más)",34
+2015,1,"Aguascalientes","Homicidio doloso","Hombre","Menores de edad (0-17)",0
+2015,1,"Aguascalientes","Homicidio doloso","Mujer","Adultos (18 y más)",5
+2015,1,"Aguascalientes","Homicidio doloso","Mujer","Menores de edad (0-17)",2
+2015,2,"Baja California","Homicidio doloso","Hombre","Adultos (18 y más)",610
+2015,2,"Baja California","Homicidio doloso","Hombre","Menores de edad (0-17)",20
+2015,2,"Baja California","Homicidio doloso","Mujer","Adultos (18 y más)",74
+2015,2,"Baja California","Homicidio doloso","Mujer","Menores de edad (0-17)",9
+2015,3,"Baja California Sur","Homicidio doloso","Hombre","Adultos (18 y más)",134
+2015,3,"Baja California Sur","Homicidio doloso","Hombre","Menores de edad (0-17)",4
+2015,3,"Baja California Sur","Homicidio doloso","Mujer","Adultos (18 y más)",19
+2015,3,"Baja California Sur","Homicidio doloso","Mujer","Menores de edad (0-17)",1
+2015,4,"Campeche","Homicidio doloso","Hombre","Adultos (18 y más)",48
+2015,4,"Campeche","Homicidio doloso","Hombre","Menores de edad (0-17)",1
+2015,4,"Campeche","Homicidio doloso","Mujer","Adultos (18 y más)",4
+2015,4,"Campeche","Homicidio doloso","Mujer","Menores de edad (0-17)",0
+2015,5,"Coahuila de Zaragoza","Homicidio doloso","Hombre","Adultos (18 y más)",233
+2015,5,"Coahuila de Zaragoza","Homicidio doloso","Hombre","Menores de edad (0-17)",22
+2015,5,"Coahuila de Zaragoza","Homicidio doloso","Mujer","Adultos (18 y más)",45
+2015,5,"Coahuila de Zaragoza","Homicidio doloso","Mujer","Menores de edad (0-17)",5
+2015,6,"Colima","Homicidio doloso","Hombre","Adultos (18 y más)",151
+2015,6,"Colima","Homicidio doloso","Hombre","Menores de edad (0-17)",4
+2015,6,"Colima","Homicidio doloso","Mujer","Adultos (18 y más)",14
+2015,6,"Colima","Homicidio doloso","Mujer","Menores de edad (0-17)",1
+2015,7,"Chiapas","Homicidio doloso","Hombre","Adultos (18 y más)",442
+2015,7,"Chiapas","Homicidio doloso","Hombre","Menores de edad (0-17)",31
+2015,7,"Chiapas","Homicidio doloso","Mujer","Adultos (18 y más)",30
+2015,7,"Chiapas","Homicidio doloso","Mujer","Menores de edad (0-17)",2
+2015,8,"Chihuahua","Homicidio doloso","Hombre","Adultos (18 y más)",766
+2015,8,"Chihuahua","Homicidio doloso","Hombre","Menores de edad (0-17)",51
+2015,8,"Chihuahua","Homicidio doloso","Mujer","Adultos (18 y más)",77
+2015,8,"Chihuahua","Homicidio doloso","Mujer","Menores de edad (0-17)",11
+2015,9,"Ciudad de México","Homicidio doloso","Hombre","Adultos (18 y más)",748
+2015,9,"Ciudad de México","Homicidio doloso","Hombre","Menores de edad (0-17)",20
+2015,9,"Ciudad de México","Homicidio doloso","Mujer","Adultos (18 y más)",58
+2015,9,"Ciudad de México","Homicidio doloso","Mujer","Menores de edad (0-17)",9
+2015,10,"Durango","Homicidio doloso","Hombre","Adultos (18 y más)",200
+2015,10,"Durango","Homicidio doloso","Hombre","Menores de edad (0-17)",12
+2015,10,"Durango","Homicidio doloso","Mujer","Adultos (18 y más)",6
+2015,10,"Durango","Homicidio doloso","Mujer","Menores de edad (0-17)",3
+2015,11,"Guanajuato","Homicidio doloso","Hombre","Adultos (18 y más)",808
+2015,11,"Guanajuato","Homicidio doloso","Hombre","Menores de edad (0-17)",39
+2015,11,"Guanajuato","Homicidio doloso","Mujer","Adultos (18 y más)",101
+2015,11,"Guanajuato","Homicidio doloso","Mujer","Menores de edad (0-17)",8
+2015,12,"Guerrero","Homicidio doloso","Hombre","Adultos (18 y más)",771
+2015,12,"Guerrero","Homicidio doloso","Hombre","Menores de edad (0-17)",34
+2015,12,"Guerrero","Homicidio doloso","Mujer","Adultos (18 y más)",92
+2015,12,"Guerrero","Homicidio doloso","Mujer","Menores de edad (0-17)",6
+2015,13,"Hidalgo","Homicidio doloso","Hombre","Adultos (18 y más)",120
+2015,13,"Hidalgo","Homicidio doloso","Hombre","Menores de edad (0-17)",2
+2015,13,"Hidalgo","Homicidio doloso","Mujer","Adultos (18 y más)",28
+2015,13,"Hidalgo","Homicidio doloso","Mujer","Menores de edad (0-17)",1
+2015,14,"Jalisco","Homicidio doloso","Hombre","Adultos (18 y más)",827
+2015,14,"Jalisco","Homicidio doloso","Hombre","Menores de edad (0-17)",31
+2015,14,"Jalisco","Homicidio doloso","Mujer","Adultos (18 y más)",57
+2015,14,"Jalisco","Homicidio doloso","Mujer","Menores de edad (0-17)",11
+2015,15,"México","Homicidio doloso","Hombre","Adultos (18 y más)",1841
+2015,15,"México","Homicidio doloso","Hombre","Menores de edad (0-17)",69
+2015,15,"México","Homicidio doloso","Mujer","Adultos (18 y más)",268
+2015,15,"México","Homicidio doloso","Mujer","Menores de edad (0-17)",53
+2015,16,"Michoacán de Ocampo","Homicidio doloso","Hombre","Adultos (18 y más)",652
+2015,16,"Michoacán de Ocampo","Homicidio doloso","Hombre","Menores de edad (0-17)",48
+2015,16,"Michoacán de Ocampo","Homicidio doloso","Mujer","Adultos (18 y más)",62
+2015,16,"Michoacán de Ocampo","Homicidio doloso","Mujer","Menores de edad (0-17)",9
+2015,17,"Morelos","Homicidio doloso","Hombre","Adultos (18 y más)",319
+2015,17,"Morelos","Homicidio doloso","Hombre","Menores de edad (0-17)",8
+2015,17,"Morelos","Homicidio doloso","Mujer","Adultos (18 y más)",26
+2015,17,"Morelos","Homicidio doloso","Mujer","Menores de edad (0-17)",4
+2015,18,"Nayarit","Homicidio doloso","Hombre","Adultos (18 y más)",73
+2015,18,"Nayarit","Homicidio doloso","Hombre","Menores de edad (0-17)",4
+2015,18,"Nayarit","Homicidio doloso","Mujer","Adultos (18 y más)",8
+2015,18,"Nayarit","Homicidio doloso","Mujer","Menores de edad (0-17)",0
+2015,19,"Nuevo León","Homicidio doloso","Hombre","Adultos (18 y más)",312
+2015,19,"Nuevo León","Homicidio doloso","Hombre","Menores de edad (0-17)",20
+2015,19,"Nuevo León","Homicidio doloso","Mujer","Adultos (18 y más)",33
+2015,19,"Nuevo León","Homicidio doloso","Mujer","Menores de edad (0-17)",15
+2015,20,"Oaxaca","Homicidio doloso","Hombre","Adultos (18 y más)",199
+2015,20,"Oaxaca","Homicidio doloso","Hombre","Menores de edad (0-17)",6
+2015,20,"Oaxaca","Homicidio doloso","Mujer","Adultos (18 y más)",8
+2015,20,"Oaxaca","Homicidio doloso","Mujer","Menores de edad (0-17)",1
+2015,21,"Puebla","Homicidio doloso","Hombre","Adultos (18 y más)",433
+2015,21,"Puebla","Homicidio doloso","Hombre","Menores de edad (0-17)",23
+2015,21,"Puebla","Homicidio doloso","Mujer","Adultos (18 y más)",72
+2015,21,"Puebla","Homicidio doloso","Mujer","Menores de edad (0-17)",7
+2015,22,"Querétaro","Homicidio doloso","Hombre","Adultos (18 y más)",104
+2015,22,"Querétaro","Homicidio doloso","Hombre","Menores de edad (0-17)",5
+2015,22,"Querétaro","Homicidio doloso","Mujer","Adultos (18 y más)",11
+2015,22,"Querétaro","Homicidio doloso","Mujer","Menores de edad (0-17)",1
+2015,23,"Quintana Roo","Homicidio doloso","Hombre","Adultos (18 y más)",102
+2015,23,"Quintana Roo","Homicidio doloso","Hombre","Menores de edad (0-17)",5
+2015,23,"Quintana Roo","Homicidio doloso","Mujer","Adultos (18 y más)",37
+2015,23,"Quintana Roo","Homicidio doloso","Mujer","Menores de edad (0-17)",4
+2015,24,"San Luis Potosí","Homicidio doloso","Hombre","Adultos (18 y más)",206
+2015,24,"San Luis Potosí","Homicidio doloso","Hombre","Menores de edad (0-17)",15
+2015,24,"San Luis Potosí","Homicidio doloso","Mujer","Adultos (18 y más)",26
+2015,24,"San Luis Potosí","Homicidio doloso","Mujer","Menores de edad (0-17)",7
+2015,25,"Sinaloa","Homicidio doloso","Hombre","Adultos (18 y más)",898
+2015,25,"Sinaloa","Homicidio doloso","Hombre","Menores de edad (0-17)",25
+2015,25,"Sinaloa","Homicidio doloso","Mujer","Adultos (18 y más)",32
+2015,25,"Sinaloa","Homicidio doloso","Mujer","Menores de edad (0-17)",1
+2015,26,"Sonora","Homicidio doloso","Hombre","Adultos (18 y más)",395
+2015,26,"Sonora","Homicidio doloso","Hombre","Menores de edad (0-17)",14
+2015,26,"Sonora","Homicidio doloso","Mujer","Adultos (18 y más)",49
+2015,26,"Sonora","Homicidio doloso","Mujer","Menores de edad (0-17)",6
+2015,27,"Tabasco","Homicidio doloso","Hombre","Adultos (18 y más)",101
+2015,27,"Tabasco","Homicidio doloso","Hombre","Menores de edad (0-17)",4
+2015,27,"Tabasco","Homicidio doloso","Mujer","Adultos (18 y más)",12
+2015,27,"Tabasco","Homicidio doloso","Mujer","Menores de edad (0-17)",2
+2015,28,"Tamaulipas","Homicidio doloso","Hombre","Adultos (18 y más)",329
+2015,28,"Tamaulipas","Homicidio doloso","Hombre","Menores de edad (0-17)",16
+2015,28,"Tamaulipas","Homicidio doloso","Mujer","Adultos (18 y más)",41
+2015,28,"Tamaulipas","Homicidio doloso","Mujer","Menores de edad (0-17)",7
+2015,29,"Tlaxcala","Homicidio doloso","Hombre","Adultos (18 y más)",33
+2015,29,"Tlaxcala","Homicidio doloso","Hombre","Menores de edad (0-17)",0
+2015,29,"Tlaxcala","Homicidio doloso","Mujer","Adultos (18 y más)",3
+2015,29,"Tlaxcala","Homicidio doloso","Mujer","Menores de edad (0-17)",3
+2015,30,"Veracruz de Ignacio de la Llave","Homicidio doloso","Hombre","Adultos (18 y más)",276
+2015,30,"Veracruz de Ignacio de la Llave","Homicidio doloso","Hombre","Menores de edad (0-17)",14
+2015,30,"Veracruz de Ignacio de la Llave","Homicidio doloso","Mujer","Adultos (18 y más)",22
+2015,30,"Veracruz de Ignacio de la Llave","Homicidio doloso","Mujer","Menores de edad (0-17)",0
+2015,31,"Yucatán","Homicidio doloso","Hombre","Adultos (18 y más)",38
+2015,31,"Yucatán","Homicidio doloso","Hombre","Menores de edad (0-17)",5
+2015,31,"Yucatán","Homicidio doloso","Mujer","Adultos (18 y más)",8
+2015,31,"Yucatán","Homicidio doloso","Mujer","Menores de edad (0-17)",0
+2015,32,"Zacatecas","Homicidio doloso","Hombre","Adultos (18 y más)",239
+2015,32,"Zacatecas","Homicidio doloso","Hombre","Menores de edad (0-17)",22
+2015,32,"Zacatecas","Homicidio doloso","Mujer","Adultos (18 y más)",12
+2015,32,"Zacatecas","Homicidio doloso","Mujer","Menores de edad (0-17)",4
+2016,1,"Aguascalientes","Homicidio doloso","Hombre","Adultos (18 y más)",35
+2016,1,"Aguascalientes","Homicidio doloso","Hombre","Menores de edad (0-17)",1
+2016,1,"Aguascalientes","Homicidio doloso","Mujer","Adultos (18 y más)",3
+2016,1,"Aguascalientes","Homicidio doloso","Mujer","Menores de edad (0-17)",1
+2016,2,"Baja California","Homicidio doloso","Hombre","Adultos (18 y más)",811
+2016,2,"Baja California","Homicidio doloso","Hombre","Menores de edad (0-17)",25
+2016,2,"Baja California","Homicidio doloso","Mujer","Adultos (18 y más)",88
+2016,2,"Baja California","Homicidio doloso","Mujer","Menores de edad (0-17)",12
+2016,3,"Baja California Sur","Homicidio doloso","Hombre","Adultos (18 y más)",235
+2016,3,"Baja California Sur","Homicidio doloso","Hombre","Menores de edad (0-17)",5
+2016,3,"Baja California Sur","Homicidio doloso","Mujer","Adultos (18 y más)",12
+2016,3,"Baja California Sur","Homicidio doloso","Mujer","Menores de edad (0-17)",3
+2016,4,"Campeche","Homicidio doloso","Hombre","Adultos (18 y más)",70
+2016,4,"Campeche","Homicidio doloso","Hombre","Menores de edad (0-17)",3
+2016,4,"Campeche","Homicidio doloso","Mujer","Adultos (18 y más)",6
+2016,4,"Campeche","Homicidio doloso","Mujer","Menores de edad (0-17)",1
+2016,5,"Coahuila de Zaragoza","Homicidio doloso","Hombre","Adultos (18 y más)",194
+2016,5,"Coahuila de Zaragoza","Homicidio doloso","Hombre","Menores de edad (0-17)",7
+2016,5,"Coahuila de Zaragoza","Homicidio doloso","Mujer","Adultos (18 y más)",26
+2016,5,"Coahuila de Zaragoza","Homicidio doloso","Mujer","Menores de edad (0-17)",2
+2016,6,"Colima","Homicidio doloso","Hombre","Adultos (18 y más)",394
+2016,6,"Colima","Homicidio doloso","Hombre","Menores de edad (0-17)",12
+2016,6,"Colima","Homicidio doloso","Mujer","Adultos (18 y más)",27
+2016,6,"Colima","Homicidio doloso","Mujer","Menores de edad (0-17)",1
+2016,7,"Chiapas","Homicidio doloso","Hombre","Adultos (18 y más)",431
+2016,7,"Chiapas","Homicidio doloso","Hombre","Menores de edad (0-17)",9
+2016,7,"Chiapas","Homicidio doloso","Mujer","Adultos (18 y más)",40
+2016,7,"Chiapas","Homicidio doloso","Mujer","Menores de edad (0-17)",5
+2016,8,"Chihuahua","Homicidio doloso","Hombre","Adultos (18 y más)",909
+2016,8,"Chihuahua","Homicidio doloso","Hombre","Menores de edad (0-17)",35
+2016,8,"Chihuahua","Homicidio doloso","Mujer","Adultos (18 y más)",92
+2016,8,"Chihuahua","Homicidio doloso","Mujer","Menores de edad (0-17)",7
+2016,9,"Ciudad de México","Homicidio doloso","Hombre","Adultos (18 y más)",883
+2016,9,"Ciudad de México","Homicidio doloso","Hombre","Menores de edad (0-17)",28
+2016,9,"Ciudad de México","Homicidio doloso","Mujer","Adultos (18 y más)",65
+2016,9,"Ciudad de México","Homicidio doloso","Mujer","Menores de edad (0-17)",8
+2016,10,"Durango","Homicidio doloso","Hombre","Adultos (18 y más)",196
+2016,10,"Durango","Homicidio doloso","Hombre","Menores de edad (0-17)",8
+2016,10,"Durango","Homicidio doloso","Mujer","Adultos (18 y más)",7
+2016,10,"Durango","Homicidio doloso","Mujer","Menores de edad (0-17)",3
+2016,11,"Guanajuato","Homicidio doloso","Hombre","Adultos (18 y más)",960
+2016,11,"Guanajuato","Homicidio doloso","Hombre","Menores de edad (0-17)",33
+2016,11,"Guanajuato","Homicidio doloso","Mujer","Adultos (18 y más)",101
+2016,11,"Guanajuato","Homicidio doloso","Mujer","Menores de edad (0-17)",2
+2016,12,"Guerrero","Homicidio doloso","Hombre","Adultos (18 y más)",1215
+2016,12,"Guerrero","Homicidio doloso","Hombre","Menores de edad (0-17)",53
+2016,12,"Guerrero","Homicidio doloso","Mujer","Adultos (18 y más)",259
+2016,12,"Guerrero","Homicidio doloso","Mujer","Menores de edad (0-17)",11
+2016,13,"Hidalgo","Homicidio doloso","Hombre","Adultos (18 y más)",102
+2016,13,"Hidalgo","Homicidio doloso","Hombre","Menores de edad (0-17)",6
+2016,13,"Hidalgo","Homicidio doloso","Mujer","Adultos (18 y más)",28
+2016,13,"Hidalgo","Homicidio doloso","Mujer","Menores de edad (0-17)",4
+2016,14,"Jalisco","Homicidio doloso","Hombre","Adultos (18 y más)",869
+2016,14,"Jalisco","Homicidio doloso","Hombre","Menores de edad (0-17)",32
+2016,14,"Jalisco","Homicidio doloso","Mujer","Adultos (18 y más)",63
+2016,14,"Jalisco","Homicidio doloso","Mujer","Menores de edad (0-17)",7
+2016,15,"México","Homicidio doloso","Hombre","Adultos (18 y más)",1842
+2016,15,"México","Homicidio doloso","Hombre","Menores de edad (0-17)",76
+2016,15,"México","Homicidio doloso","Mujer","Adultos (18 y más)",260
+2016,15,"México","Homicidio doloso","Mujer","Menores de edad (0-17)",19
+2016,16,"Michoacán de Ocampo","Homicidio doloso","Hombre","Adultos (18 y más)",814
+2016,16,"Michoacán de Ocampo","Homicidio doloso","Hombre","Menores de edad (0-17)",34
+2016,16,"Michoacán de Ocampo","Homicidio doloso","Mujer","Adultos (18 y más)",67
+2016,16,"Michoacán de Ocampo","Homicidio doloso","Mujer","Menores de edad (0-17)",6
+2016,17,"Morelos","Homicidio doloso","Hombre","Adultos (18 y más)",488
+2016,17,"Morelos","Homicidio doloso","Hombre","Menores de edad (0-17)",30
+2016,17,"Morelos","Homicidio doloso","Mujer","Adultos (18 y más)",47
+2016,17,"Morelos","Homicidio doloso","Mujer","Menores de edad (0-17)",8
+2016,18,"Nayarit","Homicidio doloso","Hombre","Adultos (18 y más)",29
+2016,18,"Nayarit","Homicidio doloso","Hombre","Menores de edad (0-17)",0
+2016,18,"Nayarit","Homicidio doloso","Mujer","Adultos (18 y más)",12
+2016,18,"Nayarit","Homicidio doloso","Mujer","Menores de edad (0-17)",2
+2016,19,"Nuevo León","Homicidio doloso","Hombre","Adultos (18 y más)",398
+2016,19,"Nuevo León","Homicidio doloso","Hombre","Menores de edad (0-17)",21
+2016,19,"Nuevo León","Homicidio doloso","Mujer","Adultos (18 y más)",66
+2016,19,"Nuevo León","Homicidio doloso","Mujer","Menores de edad (0-17)",11
+2016,20,"Oaxaca","Homicidio doloso","Hombre","Adultos (18 y más)",683
+2016,20,"Oaxaca","Homicidio doloso","Hombre","Menores de edad (0-17)",25
+2016,20,"Oaxaca","Homicidio doloso","Mujer","Adultos (18 y más)",23
+2016,20,"Oaxaca","Homicidio doloso","Mujer","Menores de edad (0-17)",1
+2016,21,"Puebla","Homicidio doloso","Hombre","Adultos (18 y más)",500
+2016,21,"Puebla","Homicidio doloso","Hombre","Menores de edad (0-17)",24
+2016,21,"Puebla","Homicidio doloso","Mujer","Adultos (18 y más)",69
+2016,21,"Puebla","Homicidio doloso","Mujer","Menores de edad (0-17)",9
+2016,22,"Querétaro","Homicidio doloso","Hombre","Adultos (18 y más)",91
+2016,22,"Querétaro","Homicidio doloso","Hombre","Menores de edad (0-17)",3
+2016,22,"Querétaro","Homicidio doloso","Mujer","Adultos (18 y más)",10
+2016,22,"Querétaro","Homicidio doloso","Mujer","Menores de edad (0-17)",0
+2016,23,"Quintana Roo","Homicidio doloso","Hombre","Adultos (18 y más)",71
+2016,23,"Quintana Roo","Homicidio doloso","Hombre","Menores de edad (0-17)",2
+2016,23,"Quintana Roo","Homicidio doloso","Mujer","Adultos (18 y más)",22
+2016,23,"Quintana Roo","Homicidio doloso","Mujer","Menores de edad (0-17)",1
+2016,24,"San Luis Potosí","Homicidio doloso","Hombre","Adultos (18 y más)",274
+2016,24,"San Luis Potosí","Homicidio doloso","Hombre","Menores de edad (0-17)",19
+2016,24,"San Luis Potosí","Homicidio doloso","Mujer","Adultos (18 y más)",28
+2016,24,"San Luis Potosí","Homicidio doloso","Mujer","Menores de edad (0-17)",4
+2016,25,"Sinaloa","Homicidio doloso","Hombre","Adultos (18 y más)",951
+2016,25,"Sinaloa","Homicidio doloso","Hombre","Menores de edad (0-17)",31
+2016,25,"Sinaloa","Homicidio doloso","Mujer","Adultos (18 y más)",29
+2016,25,"Sinaloa","Homicidio doloso","Mujer","Menores de edad (0-17)",1
+2016,26,"Sonora","Homicidio doloso","Hombre","Adultos (18 y más)",498
+2016,26,"Sonora","Homicidio doloso","Hombre","Menores de edad (0-17)",15
+2016,26,"Sonora","Homicidio doloso","Mujer","Adultos (18 y más)",34
+2016,26,"Sonora","Homicidio doloso","Mujer","Menores de edad (0-17)",3
+2016,27,"Tabasco","Homicidio doloso","Hombre","Adultos (18 y más)",136
+2016,27,"Tabasco","Homicidio doloso","Hombre","Menores de edad (0-17)",3
+2016,27,"Tabasco","Homicidio doloso","Mujer","Adultos (18 y más)",6
+2016,27,"Tabasco","Homicidio doloso","Mujer","Menores de edad (0-17)",0
+2016,28,"Tamaulipas","Homicidio doloso","Hombre","Adultos (18 y más)",476
+2016,28,"Tamaulipas","Homicidio doloso","Hombre","Menores de edad (0-17)",30
+2016,28,"Tamaulipas","Homicidio doloso","Mujer","Adultos (18 y más)",90
+2016,28,"Tamaulipas","Homicidio doloso","Mujer","Menores de edad (0-17)",19
+2016,29,"Tlaxcala","Homicidio doloso","Hombre","Adultos (18 y más)",46
+2016,29,"Tlaxcala","Homicidio doloso","Hombre","Menores de edad (0-17)",1
+2016,29,"Tlaxcala","Homicidio doloso","Mujer","Adultos (18 y más)",10
+2016,29,"Tlaxcala","Homicidio doloso","Mujer","Menores de edad (0-17)",0
+2016,30,"Veracruz de Ignacio de la Llave","Homicidio doloso","Hombre","Adultos (18 y más)",677
+2016,30,"Veracruz de Ignacio de la Llave","Homicidio doloso","Hombre","Menores de edad (0-17)",23
+2016,30,"Veracruz de Ignacio de la Llave","Homicidio doloso","Mujer","Adultos (18 y más)",59
+2016,30,"Veracruz de Ignacio de la Llave","Homicidio doloso","Mujer","Menores de edad (0-17)",3
+2016,31,"Yucatán","Homicidio doloso","Hombre","Adultos (18 y más)",40
+2016,31,"Yucatán","Homicidio doloso","Hombre","Menores de edad (0-17)",1
+2016,31,"Yucatán","Homicidio doloso","Mujer","Adultos (18 y más)",7
+2016,31,"Yucatán","Homicidio doloso","Mujer","Menores de edad (0-17)",0
+2016,32,"Zacatecas","Homicidio doloso","Hombre","Adultos (18 y más)",451
+2016,32,"Zacatecas","Homicidio doloso","Hombre","Menores de edad (0-17)",31
+2016,32,"Zacatecas","Homicidio doloso","Mujer","Adultos (18 y más)",50
+2016,32,"Zacatecas","Homicidio doloso","Mujer","Menores de edad (0-17)",5
+2017,1,"Aguascalientes","Homicidio doloso","Hombre","Adultos (18 y más)",68
+2017,1,"Aguascalientes","Homicidio doloso","Hombre","Menores de edad (0-17)",3
+2017,1,"Aguascalientes","Homicidio doloso","Mujer","Adultos (18 y más)",7
+2017,1,"Aguascalientes","Homicidio doloso","Mujer","Menores de edad (0-17)",2
+2017,2,"Baja California","Homicidio doloso","Hombre","Adultos (18 y más)",1455
+2017,2,"Baja California","Homicidio doloso","Hombre","Menores de edad (0-17)",44
+2017,2,"Baja California","Homicidio doloso","Mujer","Adultos (18 y más)",124
+2017,2,"Baja California","Homicidio doloso","Mujer","Menores de edad (0-17)",16
+2017,3,"Baja California Sur","Homicidio doloso","Hombre","Adultos (18 y más)",557
+2017,3,"Baja California Sur","Homicidio doloso","Hombre","Menores de edad (0-17)",18
+2017,3,"Baja California Sur","Homicidio doloso","Mujer","Adultos (18 y más)",67
+2017,3,"Baja California Sur","Homicidio doloso","Mujer","Menores de edad (0-17)",6
+2017,4,"Campeche","Homicidio doloso","Hombre","Adultos (18 y más)",63
+2017,4,"Campeche","Homicidio doloso","Hombre","Menores de edad (0-17)",1
+2017,4,"Campeche","Homicidio doloso","Mujer","Adultos (18 y más)",6
+2017,4,"Campeche","Homicidio doloso","Mujer","Menores de edad (0-17)",0
+2017,5,"Coahuila de Zaragoza","Homicidio doloso","Hombre","Adultos (18 y más)",171
+2017,5,"Coahuila de Zaragoza","Homicidio doloso","Hombre","Menores de edad (0-17)",6
+2017,5,"Coahuila de Zaragoza","Homicidio doloso","Mujer","Adultos (18 y más)",15
+2017,5,"Coahuila de Zaragoza","Homicidio doloso","Mujer","Menores de edad (0-17)",5
+2017,6,"Colima","Homicidio doloso","Hombre","Adultos (18 y más)",624
+2017,6,"Colima","Homicidio doloso","Hombre","Menores de edad (0-17)",16
+2017,6,"Colima","Homicidio doloso","Mujer","Adultos (18 y más)",63
+2017,6,"Colima","Homicidio doloso","Mujer","Menores de edad (0-17)",2
+2017,7,"Chiapas","Homicidio doloso","Hombre","Adultos (18 y más)",443
+2017,7,"Chiapas","Homicidio doloso","Hombre","Menores de edad (0-17)",22
+2017,7,"Chiapas","Homicidio doloso","Mujer","Adultos (18 y más)",36
+2017,7,"Chiapas","Homicidio doloso","Mujer","Menores de edad (0-17)",4
+2017,8,"Chihuahua","Homicidio doloso","Hombre","Adultos (18 y más)",1184
+2017,8,"Chihuahua","Homicidio doloso","Hombre","Menores de edad (0-17)",58
+2017,8,"Chihuahua","Homicidio doloso","Mujer","Adultos (18 y más)",136
+2017,8,"Chihuahua","Homicidio doloso","Mujer","Menores de edad (0-17)",14
+2017,9,"Ciudad de México","Homicidio doloso","Hombre","Adultos (18 y más)",1008
+2017,9,"Ciudad de México","Homicidio doloso","Hombre","Menores de edad (0-17)",47
+2017,9,"Ciudad de México","Homicidio doloso","Mujer","Adultos (18 y más)",94
+2017,9,"Ciudad de México","Homicidio doloso","Mujer","Menores de edad (0-17)",4
+2017,10,"Durango","Homicidio doloso","Hombre","Adultos (18 y más)",178
+2017,10,"Durango","Homicidio doloso","Hombre","Menores de edad (0-17)",9
+2017,10,"Durango","Homicidio doloso","Mujer","Adultos (18 y más)",14
+2017,10,"Durango","Homicidio doloso","Mujer","Menores de edad (0-17)",2
+2017,11,"Guanajuato","Homicidio doloso","Hombre","Adultos (18 y más)",1163
+2017,11,"Guanajuato","Homicidio doloso","Hombre","Menores de edad (0-17)",67
+2017,11,"Guanajuato","Homicidio doloso","Mujer","Adultos (18 y más)",145
+2017,11,"Guanajuato","Homicidio doloso","Mujer","Menores de edad (0-17)",14
+2017,12,"Guerrero","Homicidio doloso","Hombre","Adultos (18 y más)",1730
+2017,12,"Guerrero","Homicidio doloso","Hombre","Menores de edad (0-17)",114
+2017,12,"Guerrero","Homicidio doloso","Mujer","Adultos (18 y más)",148
+2017,12,"Guerrero","Homicidio doloso","Mujer","Menores de edad (0-17)",19
+2017,13,"Hidalgo","Homicidio doloso","Hombre","Adultos (18 y más)",157
+2017,13,"Hidalgo","Homicidio doloso","Hombre","Menores de edad (0-17)",6
+2017,13,"Hidalgo","Homicidio doloso","Mujer","Adultos (18 y más)",20
+2017,13,"Hidalgo","Homicidio doloso","Mujer","Menores de edad (0-17)",1
+2017,14,"Jalisco","Homicidio doloso","Hombre","Adultos (18 y más)",1113
+2017,14,"Jalisco","Homicidio doloso","Hombre","Menores de edad (0-17)",56
+2017,14,"Jalisco","Homicidio doloso","Mujer","Adultos (18 y más)",90
+2017,14,"Jalisco","Homicidio doloso","Mujer","Menores de edad (0-17)",12
+2017,15,"México","Homicidio doloso","Hombre","Adultos (18 y más)",1922
+2017,15,"México","Homicidio doloso","Hombre","Menores de edad (0-17)",90
+2017,15,"México","Homicidio doloso","Mujer","Adultos (18 y más)",243
+2017,15,"México","Homicidio doloso","Mujer","Menores de edad (0-17)",19
+2017,16,"Michoacán de Ocampo","Homicidio doloso","Hombre","Adultos (18 y más)",903
+2017,16,"Michoacán de Ocampo","Homicidio doloso","Hombre","Menores de edad (0-17)",41
+2017,16,"Michoacán de Ocampo","Homicidio doloso","Mujer","Adultos (18 y más)",68
+2017,16,"Michoacán de Ocampo","Homicidio doloso","Mujer","Menores de edad (0-17)",10
+2017,17,"Morelos","Homicidio doloso","Hombre","Adultos (18 y más)",502
+2017,17,"Morelos","Homicidio doloso","Hombre","Menores de edad (0-17)",15
+2017,17,"Morelos","Homicidio doloso","Mujer","Adultos (18 y más)",33
+2017,17,"Morelos","Homicidio doloso","Mujer","Menores de edad (0-17)",4
+2017,18,"Nayarit","Homicidio doloso","Hombre","Adultos (18 y más)",267
+2017,18,"Nayarit","Homicidio doloso","Hombre","Menores de edad (0-17)",12
+2017,18,"Nayarit","Homicidio doloso","Mujer","Adultos (18 y más)",30
+2017,18,"Nayarit","Homicidio doloso","Mujer","Menores de edad (0-17)",5
+2017,19,"Nuevo León","Homicidio doloso","Hombre","Adultos (18 y más)",458
+2017,19,"Nuevo León","Homicidio doloso","Hombre","Menores de edad (0-17)",22
+2017,19,"Nuevo León","Homicidio doloso","Mujer","Adultos (18 y más)",17
+2017,19,"Nuevo León","Homicidio doloso","Mujer","Menores de edad (0-17)",5
+2017,20,"Oaxaca","Homicidio doloso","Hombre","Adultos (18 y más)",730
+2017,20,"Oaxaca","Homicidio doloso","Hombre","Menores de edad (0-17)",23
+2017,20,"Oaxaca","Homicidio doloso","Mujer","Adultos (18 y más)",42
+2017,20,"Oaxaca","Homicidio doloso","Mujer","Menores de edad (0-17)",9
+2017,21,"Puebla","Homicidio doloso","Hombre","Adultos (18 y más)",814
+2017,21,"Puebla","Homicidio doloso","Hombre","Menores de edad (0-17)",24
+2017,21,"Puebla","Homicidio doloso","Mujer","Adultos (18 y más)",98
+2017,21,"Puebla","Homicidio doloso","Mujer","Menores de edad (0-17)",8
+2017,22,"Querétaro","Homicidio doloso","Hombre","Adultos (18 y más)",151
+2017,22,"Querétaro","Homicidio doloso","Hombre","Menores de edad (0-17)",6
+2017,22,"Querétaro","Homicidio doloso","Mujer","Adultos (18 y más)",23
+2017,22,"Querétaro","Homicidio doloso","Mujer","Menores de edad (0-17)",10
+2017,23,"Quintana Roo","Homicidio doloso","Hombre","Adultos (18 y más)",223
+2017,23,"Quintana Roo","Homicidio doloso","Hombre","Menores de edad (0-17)",9
+2017,23,"Quintana Roo","Homicidio doloso","Mujer","Adultos (18 y más)",21
+2017,23,"Quintana Roo","Homicidio doloso","Mujer","Menores de edad (0-17)",2
+2017,24,"San Luis Potosí","Homicidio doloso","Hombre","Adultos (18 y más)",411
+2017,24,"San Luis Potosí","Homicidio doloso","Hombre","Menores de edad (0-17)",27
+2017,24,"San Luis Potosí","Homicidio doloso","Mujer","Adultos (18 y más)",22
+2017,24,"San Luis Potosí","Homicidio doloso","Mujer","Menores de edad (0-17)",5
+2017,25,"Sinaloa","Homicidio doloso","Hombre","Adultos (18 y más)",1397
+2017,25,"Sinaloa","Homicidio doloso","Hombre","Menores de edad (0-17)",41
+2017,25,"Sinaloa","Homicidio doloso","Mujer","Adultos (18 y más)",0
+2017,25,"Sinaloa","Homicidio doloso","Mujer","Menores de edad (0-17)",0
+2017,26,"Sonora","Homicidio doloso","Hombre","Adultos (18 y más)",544
+2017,26,"Sonora","Homicidio doloso","Hombre","Menores de edad (0-17)",10
+2017,26,"Sonora","Homicidio doloso","Mujer","Adultos (18 y más)",26
+2017,26,"Sonora","Homicidio doloso","Mujer","Menores de edad (0-17)",3
+2017,27,"Tabasco","Homicidio doloso","Hombre","Adultos (18 y más)",327
+2017,27,"Tabasco","Homicidio doloso","Hombre","Menores de edad (0-17)",12
+2017,27,"Tabasco","Homicidio doloso","Mujer","Adultos (18 y más)",19
+2017,27,"Tabasco","Homicidio doloso","Mujer","Menores de edad (0-17)",0
+2017,28,"Tamaulipas","Homicidio doloso","Hombre","Adultos (18 y más)",663
+2017,28,"Tamaulipas","Homicidio doloso","Hombre","Menores de edad (0-17)",44
+2017,28,"Tamaulipas","Homicidio doloso","Mujer","Adultos (18 y más)",107
+2017,28,"Tamaulipas","Homicidio doloso","Mujer","Menores de edad (0-17)",16
+2017,29,"Tlaxcala","Homicidio doloso","Hombre","Adultos (18 y más)",80
+2017,29,"Tlaxcala","Homicidio doloso","Hombre","Menores de edad (0-17)",3
+2017,29,"Tlaxcala","Homicidio doloso","Mujer","Adultos (18 y más)",14
+2017,29,"Tlaxcala","Homicidio doloso","Mujer","Menores de edad (0-17)",1
+2017,30,"Veracruz de Ignacio de la Llave","Homicidio doloso","Hombre","Adultos (18 y más)",955
+2017,30,"Veracruz de Ignacio de la Llave","Homicidio doloso","Hombre","Menores de edad (0-17)",39
+2017,30,"Veracruz de Ignacio de la Llave","Homicidio doloso","Mujer","Adultos (18 y más)",80
+2017,30,"Veracruz de Ignacio de la Llave","Homicidio doloso","Mujer","Menores de edad (0-17)",12
+2017,31,"Yucatán","Homicidio doloso","Hombre","Adultos (18 y más)",34
+2017,31,"Yucatán","Homicidio doloso","Hombre","Menores de edad (0-17)",1
+2017,31,"Yucatán","Homicidio doloso","Mujer","Adultos (18 y más)",3
+2017,31,"Yucatán","Homicidio doloso","Mujer","Menores de edad (0-17)",0
+2017,32,"Zacatecas","Homicidio doloso","Hombre","Adultos (18 y más)",507
+2017,32,"Zacatecas","Homicidio doloso","Hombre","Menores de edad (0-17)",28
+2017,32,"Zacatecas","Homicidio doloso","Mujer","Adultos (18 y más)",111
+2017,32,"Zacatecas","Homicidio doloso","Mujer","Menores de edad (0-17)",8
+2018,1,"Aguascalientes","Homicidio doloso","Hombre","Adultos (18 y más)",66
+2018,1,"Aguascalientes","Homicidio doloso","Hombre","Menores de edad (0-17)",3
+2018,1,"Aguascalientes","Homicidio doloso","Mujer","Adultos (18 y más)",3
+2018,1,"Aguascalientes","Homicidio doloso","Mujer","Menores de edad (0-17)",1
+2018,2,"Baja California","Homicidio doloso","Hombre","Adultos (18 y más)",1879
+2018,2,"Baja California","Homicidio doloso","Hombre","Menores de edad (0-17)",55
+2018,2,"Baja California","Homicidio doloso","Mujer","Adultos (18 y más)",174
+2018,2,"Baja California","Homicidio doloso","Mujer","Menores de edad (0-17)",9
+2018,3,"Baja California Sur","Homicidio doloso","Hombre","Adultos (18 y más)",124
+2018,3,"Baja California Sur","Homicidio doloso","Hombre","Menores de edad (0-17)",8
+2018,3,"Baja California Sur","Homicidio doloso","Mujer","Adultos (18 y más)",18
+2018,3,"Baja California Sur","Homicidio doloso","Mujer","Menores de edad (0-17)",2
+2018,4,"Campeche","Homicidio doloso","Hombre","Adultos (18 y más)",62
+2018,4,"Campeche","Homicidio doloso","Hombre","Menores de edad (0-17)",1
+2018,4,"Campeche","Homicidio doloso","Mujer","Adultos (18 y más)",9
+2018,4,"Campeche","Homicidio doloso","Mujer","Menores de edad (0-17)",0
+2018,5,"Coahuila de Zaragoza","Homicidio doloso","Hombre","Adultos (18 y más)",183
+2018,5,"Coahuila de Zaragoza","Homicidio doloso","Hombre","Menores de edad (0-17)",10
+2018,5,"Coahuila de Zaragoza","Homicidio doloso","Mujer","Adultos (18 y más)",11
+2018,5,"Coahuila de Zaragoza","Homicidio doloso","Mujer","Menores de edad (0-17)",3
+2018,6,"Colima","Homicidio doloso","Hombre","Adultos (18 y más)",566
+2018,6,"Colima","Homicidio doloso","Hombre","Menores de edad (0-17)",14
+2018,6,"Colima","Homicidio doloso","Mujer","Adultos (18 y más)",62
+2018,6,"Colima","Homicidio doloso","Mujer","Menores de edad (0-17)",1
+2018,7,"Chiapas","Homicidio doloso","Hombre","Adultos (18 y más)",535
+2018,7,"Chiapas","Homicidio doloso","Hombre","Menores de edad (0-17)",24
+2018,7,"Chiapas","Homicidio doloso","Mujer","Adultos (18 y más)",31
+2018,7,"Chiapas","Homicidio doloso","Mujer","Menores de edad (0-17)",4
+2018,8,"Chihuahua","Homicidio doloso","Hombre","Adultos (18 y más)",1474
+2018,8,"Chihuahua","Homicidio doloso","Hombre","Menores de edad (0-17)",58
+2018,8,"Chihuahua","Homicidio doloso","Mujer","Adultos (18 y más)",119
+2018,8,"Chihuahua","Homicidio doloso","Mujer","Menores de edad (0-17)",18
+2018,9,"Ciudad de México","Homicidio doloso","Hombre","Adultos (18 y más)",1367
+2018,9,"Ciudad de México","Homicidio doloso","Hombre","Menores de edad (0-17)",37
+2018,9,"Ciudad de México","Homicidio doloso","Mujer","Adultos (18 y más)",128
+2018,9,"Ciudad de México","Homicidio doloso","Mujer","Menores de edad (0-17)",10
+2018,10,"Durango","Homicidio doloso","Hombre","Adultos (18 y más)",155
+2018,10,"Durango","Homicidio doloso","Hombre","Menores de edad (0-17)",4
+2018,10,"Durango","Homicidio doloso","Mujer","Adultos (18 y más)",16
+2018,10,"Durango","Homicidio doloso","Mujer","Menores de edad (0-17)",1
+2018,11,"Guanajuato","Homicidio doloso","Hombre","Adultos (18 y más)",2686
+2018,11,"Guanajuato","Homicidio doloso","Hombre","Menores de edad (0-17)",92
+2018,11,"Guanajuato","Homicidio doloso","Mujer","Adultos (18 y más)",267
+2018,11,"Guanajuato","Homicidio doloso","Mujer","Menores de edad (0-17)",24
+2018,12,"Guerrero","Homicidio doloso","Hombre","Adultos (18 y más)",1545
+2018,12,"Guerrero","Homicidio doloso","Hombre","Menores de edad (0-17)",81
+2018,12,"Guerrero","Homicidio doloso","Mujer","Adultos (18 y más)",167
+2018,12,"Guerrero","Homicidio doloso","Mujer","Menores de edad (0-17)",15
+2018,13,"Hidalgo","Homicidio doloso","Hombre","Adultos (18 y más)",175
+2018,13,"Hidalgo","Homicidio doloso","Hombre","Menores de edad (0-17)",8
+2018,13,"Hidalgo","Homicidio doloso","Mujer","Adultos (18 y más)",25
+2018,13,"Hidalgo","Homicidio doloso","Mujer","Menores de edad (0-17)",1
+2018,14,"Jalisco","Homicidio doloso","Hombre","Adultos (18 y más)",1621
+2018,14,"Jalisco","Homicidio doloso","Hombre","Menores de edad (0-17)",64
+2018,14,"Jalisco","Homicidio doloso","Mujer","Adultos (18 y más)",142
+2018,14,"Jalisco","Homicidio doloso","Mujer","Menores de edad (0-17)",14
+2018,15,"México","Homicidio doloso","Hombre","Adultos (18 y más)",2225
+2018,15,"México","Homicidio doloso","Hombre","Menores de edad (0-17)",59
+2018,15,"México","Homicidio doloso","Mujer","Adultos (18 y más)",204
+2018,15,"México","Homicidio doloso","Mujer","Menores de edad (0-17)",21
+2018,16,"Michoacán de Ocampo","Homicidio doloso","Hombre","Adultos (18 y más)",1193
+2018,16,"Michoacán de Ocampo","Homicidio doloso","Hombre","Menores de edad (0-17)",45
+2018,16,"Michoacán de Ocampo","Homicidio doloso","Mujer","Adultos (18 y más)",110
+2018,16,"Michoacán de Ocampo","Homicidio doloso","Mujer","Menores de edad (0-17)",23
+2018,17,"Morelos","Homicidio doloso","Hombre","Adultos (18 y más)",613
+2018,17,"Morelos","Homicidio doloso","Hombre","Menores de edad (0-17)",34
+2018,17,"Morelos","Homicidio doloso","Mujer","Adultos (18 y más)",43
+2018,17,"Morelos","Homicidio doloso","Mujer","Menores de edad (0-17)",5
+2018,18,"Nayarit","Homicidio doloso","Hombre","Adultos (18 y más)",289
+2018,18,"Nayarit","Homicidio doloso","Hombre","Menores de edad (0-17)",16
+2018,18,"Nayarit","Homicidio doloso","Mujer","Adultos (18 y más)",41
+2018,18,"Nayarit","Homicidio doloso","Mujer","Menores de edad (0-17)",2
+2018,19,"Nuevo León","Homicidio doloso","Hombre","Adultos (18 y más)",628
+2018,19,"Nuevo León","Homicidio doloso","Hombre","Menores de edad (0-17)",32
+2018,19,"Nuevo León","Homicidio doloso","Mujer","Adultos (18 y más)",12
+2018,19,"Nuevo León","Homicidio doloso","Mujer","Menores de edad (0-17)",0
+2018,20,"Oaxaca","Homicidio doloso","Hombre","Adultos (18 y más)",1011
+2018,20,"Oaxaca","Homicidio doloso","Hombre","Menores de edad (0-17)",33
+2018,20,"Oaxaca","Homicidio doloso","Mujer","Adultos (18 y más)",87
+2018,20,"Oaxaca","Homicidio doloso","Mujer","Menores de edad (0-17)",9
+2018,21,"Puebla","Homicidio doloso","Hombre","Adultos (18 y más)",1076
+2018,21,"Puebla","Homicidio doloso","Hombre","Menores de edad (0-17)",42
+2018,21,"Puebla","Homicidio doloso","Mujer","Adultos (18 y más)",97
+2018,21,"Puebla","Homicidio doloso","Mujer","Menores de edad (0-17)",8
+2018,22,"Querétaro","Homicidio doloso","Hombre","Adultos (18 y más)",168
+2018,22,"Querétaro","Homicidio doloso","Hombre","Menores de edad (0-17)",7
+2018,22,"Querétaro","Homicidio doloso","Mujer","Adultos (18 y más)",19
+2018,22,"Querétaro","Homicidio doloso","Mujer","Menores de edad (0-17)",3
+2018,23,"Quintana Roo","Homicidio doloso","Hombre","Adultos (18 y más)",534
+2018,23,"Quintana Roo","Homicidio doloso","Hombre","Menores de edad (0-17)",11
+2018,23,"Quintana Roo","Homicidio doloso","Mujer","Adultos (18 y más)",55
+2018,23,"Quintana Roo","Homicidio doloso","Mujer","Menores de edad (0-17)",1
+2018,24,"San Luis Potosí","Homicidio doloso","Hombre","Adultos (18 y más)",421
+2018,24,"San Luis Potosí","Homicidio doloso","Hombre","Menores de edad (0-17)",27
+2018,24,"San Luis Potosí","Homicidio doloso","Mujer","Adultos (18 y más)",23
+2018,24,"San Luis Potosí","Homicidio doloso","Mujer","Menores de edad (0-17)",3
+2018,25,"Sinaloa","Homicidio doloso","Hombre","Adultos (18 y más)",1045
+2018,25,"Sinaloa","Homicidio doloso","Hombre","Menores de edad (0-17)",16
+2018,25,"Sinaloa","Homicidio doloso","Mujer","Adultos (18 y más)",0
+2018,25,"Sinaloa","Homicidio doloso","Mujer","Menores de edad (0-17)",0
+2018,26,"Sonora","Homicidio doloso","Hombre","Adultos (18 y más)",652
+2018,26,"Sonora","Homicidio doloso","Hombre","Menores de edad (0-17)",10
+2018,26,"Sonora","Homicidio doloso","Mujer","Adultos (18 y más)",28
+2018,26,"Sonora","Homicidio doloso","Mujer","Menores de edad (0-17)",1
+2018,27,"Tabasco","Homicidio doloso","Hombre","Adultos (18 y más)",427
+2018,27,"Tabasco","Homicidio doloso","Hombre","Menores de edad (0-17)",17
+2018,27,"Tabasco","Homicidio doloso","Mujer","Adultos (18 y más)",20
+2018,27,"Tabasco","Homicidio doloso","Mujer","Menores de edad (0-17)",1
+2018,28,"Tamaulipas","Homicidio doloso","Hombre","Adultos (18 y más)",455
+2018,28,"Tamaulipas","Homicidio doloso","Hombre","Menores de edad (0-17)",26
+2018,28,"Tamaulipas","Homicidio doloso","Mujer","Adultos (18 y más)",57
+2018,28,"Tamaulipas","Homicidio doloso","Mujer","Menores de edad (0-17)",10
+2018,29,"Tlaxcala","Homicidio doloso","Hombre","Adultos (18 y más)",94
+2018,29,"Tlaxcala","Homicidio doloso","Hombre","Menores de edad (0-17)",0
+2018,29,"Tlaxcala","Homicidio doloso","Mujer","Adultos (18 y más)",11
+2018,29,"Tlaxcala","Homicidio doloso","Mujer","Menores de edad (0-17)",1
+2018,30,"Veracruz de Ignacio de la Llave","Homicidio doloso","Hombre","Adultos (18 y más)",922
+2018,30,"Veracruz de Ignacio de la Llave","Homicidio doloso","Hombre","Menores de edad (0-17)",38
+2018,30,"Veracruz de Ignacio de la Llave","Homicidio doloso","Mujer","Adultos (18 y más)",57
+2018,30,"Veracruz de Ignacio de la Llave","Homicidio doloso","Mujer","Menores de edad (0-17)",11
+2018,31,"Yucatán","Homicidio doloso","Hombre","Adultos (18 y más)",47
+2018,31,"Yucatán","Homicidio doloso","Hombre","Menores de edad (0-17)",0
+2018,31,"Yucatán","Homicidio doloso","Mujer","Adultos (18 y más)",1
+2018,31,"Yucatán","Homicidio doloso","Mujer","Menores de edad (0-17)",0
+2018,32,"Zacatecas","Homicidio doloso","Hombre","Adultos (18 y más)",562
+2018,32,"Zacatecas","Homicidio doloso","Hombre","Menores de edad (0-17)",25
+2018,32,"Zacatecas","Homicidio doloso","Mujer","Adultos (18 y más)",64
+2018,32,"Zacatecas","Homicidio doloso","Mujer","Menores de edad (0-17)",9
+2019,1,"Aguascalientes","Homicidio doloso","Hombre","Adultos (18 y más)",87
+2019,1,"Aguascalientes","Homicidio doloso","Hombre","Menores de edad (0-17)",3
+2019,1,"Aguascalientes","Homicidio doloso","Mujer","Adultos (18 y más)",4
+2019,1,"Aguascalientes","Homicidio doloso","Mujer","Menores de edad (0-17)",2
+2019,2,"Baja California","Homicidio doloso","Hombre","Adultos (18 y más)",2162
+2019,2,"Baja California","Homicidio doloso","Hombre","Menores de edad (0-17)",55
+2019,2,"Baja California","Homicidio doloso","Mujer","Adultos (18 y más)",198
+2019,2,"Baja California","Homicidio doloso","Mujer","Menores de edad (0-17)",10
+2019,3,"Baja California Sur","Homicidio doloso","Hombre","Adultos (18 y más)",59
+2019,3,"Baja California Sur","Homicidio doloso","Hombre","Menores de edad (0-17)",1
+2019,3,"Baja California Sur","Homicidio doloso","Mujer","Adultos (18 y más)",10
+2019,3,"Baja California Sur","Homicidio doloso","Mujer","Menores de edad (0-17)",0
+2019,4,"Campeche","Homicidio doloso","Hombre","Adultos (18 y más)",68
+2019,4,"Campeche","Homicidio doloso","Hombre","Menores de edad (0-17)",2
+2019,4,"Campeche","Homicidio doloso","Mujer","Adultos (18 y más)",3
+2019,4,"Campeche","Homicidio doloso","Mujer","Menores de edad (0-17)",0
+2019,5,"Coahuila de Zaragoza","Homicidio doloso","Hombre","Adultos (18 y más)",222
+2019,5,"Coahuila de Zaragoza","Homicidio doloso","Hombre","Menores de edad (0-17)",6
+2019,5,"Coahuila de Zaragoza","Homicidio doloso","Mujer","Adultos (18 y más)",17
+2019,5,"Coahuila de Zaragoza","Homicidio doloso","Mujer","Menores de edad (0-17)",4
+2019,6,"Colima","Homicidio doloso","Hombre","Adultos (18 y más)",424
+2019,6,"Colima","Homicidio doloso","Hombre","Menores de edad (0-17)",10
+2019,6,"Colima","Homicidio doloso","Mujer","Adultos (18 y más)",51
+2019,6,"Colima","Homicidio doloso","Mujer","Menores de edad (0-17)",4
+2019,7,"Chiapas","Homicidio doloso","Hombre","Adultos (18 y más)",501
+2019,7,"Chiapas","Homicidio doloso","Hombre","Menores de edad (0-17)",13
+2019,7,"Chiapas","Homicidio doloso","Mujer","Adultos (18 y más)",50
+2019,7,"Chiapas","Homicidio doloso","Mujer","Menores de edad (0-17)",4
+2019,8,"Chihuahua","Homicidio doloso","Hombre","Adultos (18 y más)",1864
+2019,8,"Chihuahua","Homicidio doloso","Hombre","Menores de edad (0-17)",74
+2019,8,"Chihuahua","Homicidio doloso","Mujer","Adultos (18 y más)",197
+2019,8,"Chihuahua","Homicidio doloso","Mujer","Menores de edad (0-17)",22
+2019,9,"Ciudad de México","Homicidio doloso","Hombre","Adultos (18 y más)",1365
+2019,9,"Ciudad de México","Homicidio doloso","Hombre","Menores de edad (0-17)",37
+2019,9,"Ciudad de México","Homicidio doloso","Mujer","Adultos (18 y más)",116
+2019,9,"Ciudad de México","Homicidio doloso","Mujer","Menores de edad (0-17)",3
+2019,10,"Durango","Homicidio doloso","Hombre","Adultos (18 y más)",149
+2019,10,"Durango","Homicidio doloso","Hombre","Menores de edad (0-17)",5
+2019,10,"Durango","Homicidio doloso","Mujer","Adultos (18 y más)",7
+2019,10,"Durango","Homicidio doloso","Mujer","Menores de edad (0-17)",3
+2019,11,"Guanajuato","Homicidio doloso","Hombre","Adultos (18 y más)",2215
+2019,11,"Guanajuato","Homicidio doloso","Hombre","Menores de edad (0-17)",126
+2019,11,"Guanajuato","Homicidio doloso","Mujer","Adultos (18 y más)",220
+2019,11,"Guanajuato","Homicidio doloso","Mujer","Menores de edad (0-17)",17
+2019,12,"Guerrero","Homicidio doloso","Hombre","Adultos (18 y más)",903
+2019,12,"Guerrero","Homicidio doloso","Hombre","Menores de edad (0-17)",33
+2019,12,"Guerrero","Homicidio doloso","Mujer","Adultos (18 y más)",87
+2019,12,"Guerrero","Homicidio doloso","Mujer","Menores de edad (0-17)",6
+2019,13,"Hidalgo","Homicidio doloso","Hombre","Adultos (18 y más)",210
+2019,13,"Hidalgo","Homicidio doloso","Hombre","Menores de edad (0-17)",10
+2019,13,"Hidalgo","Homicidio doloso","Mujer","Adultos (18 y más)",29
+2019,13,"Hidalgo","Homicidio doloso","Mujer","Menores de edad (0-17)",2
+2019,14,"Jalisco","Homicidio doloso","Hombre","Adultos (18 y más)",1495
+2019,14,"Jalisco","Homicidio doloso","Hombre","Menores de edad (0-17)",41
+2019,14,"Jalisco","Homicidio doloso","Mujer","Adultos (18 y más)",116
+2019,14,"Jalisco","Homicidio doloso","Mujer","Menores de edad (0-17)",15
+2019,15,"México","Homicidio doloso","Hombre","Adultos (18 y más)",2341
+2019,15,"México","Homicidio doloso","Hombre","Menores de edad (0-17)",88
+2019,15,"México","Homicidio doloso","Mujer","Adultos (18 y más)",281
+2019,15,"México","Homicidio doloso","Mujer","Menores de edad (0-17)",21
+2019,16,"Michoacán de Ocampo","Homicidio doloso","Hombre","Adultos (18 y más)",1542
+2019,16,"Michoacán de Ocampo","Homicidio doloso","Hombre","Menores de edad (0-17)",53
+2019,16,"Michoacán de Ocampo","Homicidio doloso","Mujer","Adultos (18 y más)",142
+2019,16,"Michoacán de Ocampo","Homicidio doloso","Mujer","Menores de edad (0-17)",12
+2019,17,"Morelos","Homicidio doloso","Hombre","Adultos (18 y más)",775
+2019,17,"Morelos","Homicidio doloso","Hombre","Menores de edad (0-17)",35
+2019,17,"Morelos","Homicidio doloso","Mujer","Adultos (18 y más)",54
+2019,17,"Morelos","Homicidio doloso","Mujer","Menores de edad (0-17)",6
+2019,18,"Nayarit","Homicidio doloso","Hombre","Adultos (18 y más)",128
+2019,18,"Nayarit","Homicidio doloso","Hombre","Menores de edad (0-17)",7
+2019,18,"Nayarit","Homicidio doloso","Mujer","Adultos (18 y más)",13
+2019,18,"Nayarit","Homicidio doloso","Mujer","Menores de edad (0-17)",1
+2019,19,"Nuevo León","Homicidio doloso","Hombre","Adultos (18 y más)",746
+2019,19,"Nuevo León","Homicidio doloso","Hombre","Menores de edad (0-17)",30
+2019,19,"Nuevo León","Homicidio doloso","Mujer","Adultos (18 y más)",30
+2019,19,"Nuevo León","Homicidio doloso","Mujer","Menores de edad (0-17)",6
+2019,20,"Oaxaca","Homicidio doloso","Hombre","Adultos (18 y más)",894
+2019,20,"Oaxaca","Homicidio doloso","Hombre","Menores de edad (0-17)",22
+2019,20,"Oaxaca","Homicidio doloso","Mujer","Adultos (18 y más)",103
+2019,20,"Oaxaca","Homicidio doloso","Mujer","Menores de edad (0-17)",7
+2019,21,"Puebla","Homicidio doloso","Hombre","Adultos (18 y más)",1017
+2019,21,"Puebla","Homicidio doloso","Hombre","Menores de edad (0-17)",40
+2019,21,"Puebla","Homicidio doloso","Mujer","Adultos (18 y más)",59
+2019,21,"Puebla","Homicidio doloso","Mujer","Menores de edad (0-17)",3
+2019,22,"Querétaro","Homicidio doloso","Hombre","Adultos (18 y más)",172
+2019,22,"Querétaro","Homicidio doloso","Hombre","Menores de edad (0-17)",6
+2019,22,"Querétaro","Homicidio doloso","Mujer","Adultos (18 y más)",11
+2019,22,"Querétaro","Homicidio doloso","Mujer","Menores de edad (0-17)",1
+2019,23,"Quintana Roo","Homicidio doloso","Hombre","Adultos (18 y más)",560
+2019,23,"Quintana Roo","Homicidio doloso","Hombre","Menores de edad (0-17)",18
+2019,23,"Quintana Roo","Homicidio doloso","Mujer","Adultos (18 y más)",49
+2019,23,"Quintana Roo","Homicidio doloso","Mujer","Menores de edad (0-17)",5
+2019,24,"San Luis Potosí","Homicidio doloso","Hombre","Adultos (18 y más)",420
+2019,24,"San Luis Potosí","Homicidio doloso","Hombre","Menores de edad (0-17)",17
+2019,24,"San Luis Potosí","Homicidio doloso","Mujer","Adultos (18 y más)",18
+2019,24,"San Luis Potosí","Homicidio doloso","Mujer","Menores de edad (0-17)",4
+2019,25,"Sinaloa","Homicidio doloso","Hombre","Adultos (18 y más)",765
+2019,25,"Sinaloa","Homicidio doloso","Hombre","Menores de edad (0-17)",13
+2019,25,"Sinaloa","Homicidio doloso","Mujer","Adultos (18 y más)",3
+2019,25,"Sinaloa","Homicidio doloso","Mujer","Menores de edad (0-17)",0
+2019,26,"Sonora","Homicidio doloso","Hombre","Adultos (18 y más)",951
+2019,26,"Sonora","Homicidio doloso","Hombre","Menores de edad (0-17)",20
+2019,26,"Sonora","Homicidio doloso","Mujer","Adultos (18 y más)",48
+2019,26,"Sonora","Homicidio doloso","Mujer","Menores de edad (0-17)",6
+2019,27,"Tabasco","Homicidio doloso","Hombre","Adultos (18 y más)",561
+2019,27,"Tabasco","Homicidio doloso","Hombre","Menores de edad (0-17)",29
+2019,27,"Tabasco","Homicidio doloso","Mujer","Adultos (18 y más)",40
+2019,27,"Tabasco","Homicidio doloso","Mujer","Menores de edad (0-17)",7
+2019,28,"Tamaulipas","Homicidio doloso","Hombre","Adultos (18 y más)",191
+2019,28,"Tamaulipas","Homicidio doloso","Hombre","Menores de edad (0-17)",12
+2019,28,"Tamaulipas","Homicidio doloso","Mujer","Adultos (18 y más)",27
+2019,28,"Tamaulipas","Homicidio doloso","Mujer","Menores de edad (0-17)",9
+2019,29,"Tlaxcala","Homicidio doloso","Hombre","Adultos (18 y más)",137
+2019,29,"Tlaxcala","Homicidio doloso","Hombre","Menores de edad (0-17)",2
+2019,29,"Tlaxcala","Homicidio doloso","Mujer","Adultos (18 y más)",17
+2019,29,"Tlaxcala","Homicidio doloso","Mujer","Menores de edad (0-17)",1
+2019,30,"Veracruz de Ignacio de la Llave","Homicidio doloso","Hombre","Adultos (18 y más)",989
+2019,30,"Veracruz de Ignacio de la Llave","Homicidio doloso","Hombre","Menores de edad (0-17)",46
+2019,30,"Veracruz de Ignacio de la Llave","Homicidio doloso","Mujer","Adultos (18 y más)",84
+2019,30,"Veracruz de Ignacio de la Llave","Homicidio doloso","Mujer","Menores de edad (0-17)",3
+2019,31,"Yucatán","Homicidio doloso","Hombre","Adultos (18 y más)",31
+2019,31,"Yucatán","Homicidio doloso","Hombre","Menores de edad (0-17)",0
+2019,31,"Yucatán","Homicidio doloso","Mujer","Adultos (18 y más)",2
+2019,31,"Yucatán","Homicidio doloso","Mujer","Menores de edad (0-17)",0
+2019,32,"Zacatecas","Homicidio doloso","Hombre","Adultos (18 y más)",512
+2019,32,"Zacatecas","Homicidio doloso","Hombre","Menores de edad (0-17)",18
+2019,32,"Zacatecas","Homicidio doloso","Mujer","Adultos (18 y más)",56
+2019,32,"Zacatecas","Homicidio doloso","Mujer","Menores de edad (0-17)",7
+2020,1,"Aguascalientes","Homicidio doloso","Hombre","Adultos (18 y más)",74
+2020,1,"Aguascalientes","Homicidio doloso","Hombre","Menores de edad (0-17)",2
+2020,1,"Aguascalientes","Homicidio doloso","Mujer","Adultos (18 y más)",2
+2020,1,"Aguascalientes","Homicidio doloso","Mujer","Menores de edad (0-17)",2
+2020,2,"Baja California","Homicidio doloso","Hombre","Adultos (18 y más)",2183
+2020,2,"Baja California","Homicidio doloso","Hombre","Menores de edad (0-17)",40
+2020,2,"Baja California","Homicidio doloso","Mujer","Adultos (18 y más)",218
+2020,2,"Baja California","Homicidio doloso","Mujer","Menores de edad (0-17)",10
+2020,3,"Baja California Sur","Homicidio doloso","Hombre","Adultos (18 y más)",33
+2020,3,"Baja California Sur","Homicidio doloso","Hombre","Menores de edad (0-17)",2
+2020,3,"Baja California Sur","Homicidio doloso","Mujer","Adultos (18 y más)",4
+2020,3,"Baja California Sur","Homicidio doloso","Mujer","Menores de edad (0-17)",0
+2020,4,"Campeche","Homicidio doloso","Hombre","Adultos (18 y más)",75
+2020,4,"Campeche","Homicidio doloso","Hombre","Menores de edad (0-17)",1
+2020,4,"Campeche","Homicidio doloso","Mujer","Adultos (18 y más)",2
+2020,4,"Campeche","Homicidio doloso","Mujer","Menores de edad (0-17)",0
+2020,5,"Coahuila de Zaragoza","Homicidio doloso","Hombre","Adultos (18 y más)",192
+2020,5,"Coahuila de Zaragoza","Homicidio doloso","Hombre","Menores de edad (0-17)",16
+2020,5,"Coahuila de Zaragoza","Homicidio doloso","Mujer","Adultos (18 y más)",7
+2020,5,"Coahuila de Zaragoza","Homicidio doloso","Mujer","Menores de edad (0-17)",1
+2020,6,"Colima","Homicidio doloso","Hombre","Adultos (18 y más)",277
+2020,6,"Colima","Homicidio doloso","Hombre","Menores de edad (0-17)",1
+2020,6,"Colima","Homicidio doloso","Mujer","Adultos (18 y más)",36
+2020,6,"Colima","Homicidio doloso","Mujer","Menores de edad (0-17)",1
+2020,7,"Chiapas","Homicidio doloso","Hombre","Adultos (18 y más)",399
+2020,7,"Chiapas","Homicidio doloso","Hombre","Menores de edad (0-17)",17
+2020,7,"Chiapas","Homicidio doloso","Mujer","Adultos (18 y más)",39
+2020,7,"Chiapas","Homicidio doloso","Mujer","Menores de edad (0-17)",2
+2020,8,"Chihuahua","Homicidio doloso","Hombre","Adultos (18 y más)",2237
+2020,8,"Chihuahua","Homicidio doloso","Hombre","Menores de edad (0-17)",72
+2020,8,"Chihuahua","Homicidio doloso","Mujer","Adultos (18 y más)",230
+2020,8,"Chihuahua","Homicidio doloso","Mujer","Menores de edad (0-17)",12
+2020,9,"Ciudad de México","Homicidio doloso","Hombre","Adultos (18 y más)",1067
+2020,9,"Ciudad de México","Homicidio doloso","Hombre","Menores de edad (0-17)",36
+2020,9,"Ciudad de México","Homicidio doloso","Mujer","Adultos (18 y más)",76
+2020,9,"Ciudad de México","Homicidio doloso","Mujer","Menores de edad (0-17)",3
+2020,10,"Durango","Homicidio doloso","Hombre","Adultos (18 y más)",159
+2020,10,"Durango","Homicidio doloso","Hombre","Menores de edad (0-17)",7
+2020,10,"Durango","Homicidio doloso","Mujer","Adultos (18 y más)",4
+2020,10,"Durango","Homicidio doloso","Mujer","Menores de edad (0-17)",2
+2020,11,"Guanajuato","Homicidio doloso","Hombre","Adultos (18 y más)",3037
+2020,11,"Guanajuato","Homicidio doloso","Hombre","Menores de edad (0-17)",158
+2020,11,"Guanajuato","Homicidio doloso","Mujer","Adultos (18 y más)",306
+2020,11,"Guanajuato","Homicidio doloso","Mujer","Menores de edad (0-17)",29
+2020,12,"Guerrero","Homicidio doloso","Hombre","Adultos (18 y más)",1026
+2020,12,"Guerrero","Homicidio doloso","Hombre","Menores de edad (0-17)",29
+2020,12,"Guerrero","Homicidio doloso","Mujer","Adultos (18 y más)",100
+2020,12,"Guerrero","Homicidio doloso","Mujer","Menores de edad (0-17)",8
+2020,13,"Hidalgo","Homicidio doloso","Hombre","Adultos (18 y más)",135
+2020,13,"Hidalgo","Homicidio doloso","Hombre","Menores de edad (0-17)",6
+2020,13,"Hidalgo","Homicidio doloso","Mujer","Adultos (18 y más)",18
+2020,13,"Hidalgo","Homicidio doloso","Mujer","Menores de edad (0-17)",1
+2020,14,"Jalisco","Homicidio doloso","Hombre","Adultos (18 y más)",1690
+2020,14,"Jalisco","Homicidio doloso","Hombre","Menores de edad (0-17)",50
+2020,14,"Jalisco","Homicidio doloso","Mujer","Adultos (18 y más)",160
+2020,14,"Jalisco","Homicidio doloso","Mujer","Menores de edad (0-17)",9
+2020,15,"México","Homicidio doloso","Hombre","Adultos (18 y más)",2341
+2020,15,"México","Homicidio doloso","Hombre","Menores de edad (0-17)",90
+2020,15,"México","Homicidio doloso","Mujer","Adultos (18 y más)",224
+2020,15,"México","Homicidio doloso","Mujer","Menores de edad (0-17)",16
+2020,16,"Michoacán de Ocampo","Homicidio doloso","Hombre","Adultos (18 y más)",1702
+2020,16,"Michoacán de Ocampo","Homicidio doloso","Hombre","Menores de edad (0-17)",68
+2020,16,"Michoacán de Ocampo","Homicidio doloso","Mujer","Adultos (18 y más)",187
+2020,16,"Michoacán de Ocampo","Homicidio doloso","Mujer","Menores de edad (0-17)",17
+2020,17,"Morelos","Homicidio doloso","Hombre","Adultos (18 y más)",720
+2020,17,"Morelos","Homicidio doloso","Hombre","Menores de edad (0-17)",32
+2020,17,"Morelos","Homicidio doloso","Mujer","Adultos (18 y más)",39
+2020,17,"Morelos","Homicidio doloso","Mujer","Menores de edad (0-17)",8
+2020,18,"Nayarit","Homicidio doloso","Hombre","Adultos (18 y más)",119
+2020,18,"Nayarit","Homicidio doloso","Hombre","Menores de edad (0-17)",8
+2020,18,"Nayarit","Homicidio doloso","Mujer","Adultos (18 y más)",7
+2020,18,"Nayarit","Homicidio doloso","Mujer","Menores de edad (0-17)",0
+2020,19,"Nuevo León","Homicidio doloso","Hombre","Adultos (18 y más)",746
+2020,19,"Nuevo León","Homicidio doloso","Hombre","Menores de edad (0-17)",36
+2020,19,"Nuevo León","Homicidio doloso","Mujer","Adultos (18 y más)",23
+2020,19,"Nuevo León","Homicidio doloso","Mujer","Menores de edad (0-17)",5
+2020,20,"Oaxaca","Homicidio doloso","Hombre","Adultos (18 y más)",720
+2020,20,"Oaxaca","Homicidio doloso","Hombre","Menores de edad (0-17)",25
+2020,20,"Oaxaca","Homicidio doloso","Mujer","Adultos (18 y más)",78
+2020,20,"Oaxaca","Homicidio doloso","Mujer","Menores de edad (0-17)",9
+2020,21,"Puebla","Homicidio doloso","Hombre","Adultos (18 y más)",656
+2020,21,"Puebla","Homicidio doloso","Hombre","Menores de edad (0-17)",29
+2020,21,"Puebla","Homicidio doloso","Mujer","Adultos (18 y más)",59
+2020,21,"Puebla","Homicidio doloso","Mujer","Menores de edad (0-17)",5
+2020,22,"Querétaro","Homicidio doloso","Hombre","Adultos (18 y más)",176
+2020,22,"Querétaro","Homicidio doloso","Hombre","Menores de edad (0-17)",3
+2020,22,"Querétaro","Homicidio doloso","Mujer","Adultos (18 y más)",11
+2020,22,"Querétaro","Homicidio doloso","Mujer","Menores de edad (0-17)",0
+2020,23,"Quintana Roo","Homicidio doloso","Hombre","Adultos (18 y más)",524
+2020,23,"Quintana Roo","Homicidio doloso","Hombre","Menores de edad (0-17)",17
+2020,23,"Quintana Roo","Homicidio doloso","Mujer","Adultos (18 y más)",58
+2020,23,"Quintana Roo","Homicidio doloso","Mujer","Menores de edad (0-17)",2
+2020,24,"San Luis Potosí","Homicidio doloso","Hombre","Adultos (18 y más)",568
+2020,24,"San Luis Potosí","Homicidio doloso","Hombre","Menores de edad (0-17)",31
+2020,24,"San Luis Potosí","Homicidio doloso","Mujer","Adultos (18 y más)",20
+2020,24,"San Luis Potosí","Homicidio doloso","Mujer","Menores de edad (0-17)",4
+2020,25,"Sinaloa","Homicidio doloso","Hombre","Adultos (18 y más)",629
+2020,25,"Sinaloa","Homicidio doloso","Hombre","Menores de edad (0-17)",19
+2020,25,"Sinaloa","Homicidio doloso","Mujer","Adultos (18 y más)",9
+2020,25,"Sinaloa","Homicidio doloso","Mujer","Menores de edad (0-17)",1
+2020,26,"Sonora","Homicidio doloso","Hombre","Adultos (18 y más)",1085
+2020,26,"Sonora","Homicidio doloso","Hombre","Menores de edad (0-17)",30
+2020,26,"Sonora","Homicidio doloso","Mujer","Adultos (18 y más)",43
+2020,26,"Sonora","Homicidio doloso","Mujer","Menores de edad (0-17)",7
+2020,27,"Tabasco","Homicidio doloso","Hombre","Adultos (18 y más)",503
+2020,27,"Tabasco","Homicidio doloso","Hombre","Menores de edad (0-17)",17
+2020,27,"Tabasco","Homicidio doloso","Mujer","Adultos (18 y más)",38
+2020,27,"Tabasco","Homicidio doloso","Mujer","Menores de edad (0-17)",2
+2020,28,"Tamaulipas","Homicidio doloso","Hombre","Adultos (18 y más)",243
+2020,28,"Tamaulipas","Homicidio doloso","Hombre","Menores de edad (0-17)",18
+2020,28,"Tamaulipas","Homicidio doloso","Mujer","Adultos (18 y más)",31
+2020,28,"Tamaulipas","Homicidio doloso","Mujer","Menores de edad (0-17)",5
+2020,29,"Tlaxcala","Homicidio doloso","Hombre","Adultos (18 y más)",88
+2020,29,"Tlaxcala","Homicidio doloso","Hombre","Menores de edad (0-17)",3
+2020,29,"Tlaxcala","Homicidio doloso","Mujer","Adultos (18 y más)",10
+2020,29,"Tlaxcala","Homicidio doloso","Mujer","Menores de edad (0-17)",0
+2020,30,"Veracruz de Ignacio de la Llave","Homicidio doloso","Hombre","Adultos (18 y más)",988
+2020,30,"Veracruz de Ignacio de la Llave","Homicidio doloso","Hombre","Menores de edad (0-17)",20
+2020,30,"Veracruz de Ignacio de la Llave","Homicidio doloso","Mujer","Adultos (18 y más)",76
+2020,30,"Veracruz de Ignacio de la Llave","Homicidio doloso","Mujer","Menores de edad (0-17)",9
+2020,31,"Yucatán","Homicidio doloso","Hombre","Adultos (18 y más)",46
+2020,31,"Yucatán","Homicidio doloso","Hombre","Menores de edad (0-17)",3
+2020,31,"Yucatán","Homicidio doloso","Mujer","Adultos (18 y más)",5
+2020,31,"Yucatán","Homicidio doloso","Mujer","Menores de edad (0-17)",0
+2020,32,"Zacatecas","Homicidio doloso","Hombre","Adultos (18 y más)",886
+2020,32,"Zacatecas","Homicidio doloso","Hombre","Menores de edad (0-17)",41
+2020,32,"Zacatecas","Homicidio doloso","Mujer","Adultos (18 y más)",83
+2020,32,"Zacatecas","Homicidio doloso","Mujer","Menores de edad (0-17)",6
+2021,1,"Aguascalientes","Homicidio doloso","Hombre","Adultos (18 y más)",71
+2021,1,"Aguascalientes","Homicidio doloso","Hombre","Menores de edad (0-17)",6
+2021,1,"Aguascalientes","Homicidio doloso","Mujer","Adultos (18 y más)",5
+2021,1,"Aguascalientes","Homicidio doloso","Mujer","Menores de edad (0-17)",0
+2021,2,"Baja California","Homicidio doloso","Hombre","Adultos (18 y más)",2141
+2021,2,"Baja California","Homicidio doloso","Hombre","Menores de edad (0-17)",38
+2021,2,"Baja California","Homicidio doloso","Mujer","Adultos (18 y más)",251
+2021,2,"Baja California","Homicidio doloso","Mujer","Menores de edad (0-17)",10
+2021,3,"Baja California Sur","Homicidio doloso","Hombre","Adultos (18 y más)",28
+2021,3,"Baja California Sur","Homicidio doloso","Hombre","Menores de edad (0-17)",0
+2021,3,"Baja California Sur","Homicidio doloso","Mujer","Adultos (18 y más)",0
+2021,3,"Baja California Sur","Homicidio doloso","Mujer","Menores de edad (0-17)",0
+2021,4,"Campeche","Homicidio doloso","Hombre","Adultos (18 y más)",83
+2021,4,"Campeche","Homicidio doloso","Hombre","Menores de edad (0-17)",2
+2021,4,"Campeche","Homicidio doloso","Mujer","Adultos (18 y más)",6
+2021,4,"Campeche","Homicidio doloso","Mujer","Menores de edad (0-17)",1
+2021,5,"Coahuila de Zaragoza","Homicidio doloso","Hombre","Adultos (18 y más)",123
+2021,5,"Coahuila de Zaragoza","Homicidio doloso","Hombre","Menores de edad (0-17)",3
+2021,5,"Coahuila de Zaragoza","Homicidio doloso","Mujer","Adultos (18 y más)",5
+2021,5,"Coahuila de Zaragoza","Homicidio doloso","Mujer","Menores de edad (0-17)",1
+2021,6,"Colima","Homicidio doloso","Hombre","Adultos (18 y más)",207
+2021,6,"Colima","Homicidio doloso","Hombre","Menores de edad (0-17)",4
+2021,6,"Colima","Homicidio doloso","Mujer","Adultos (18 y más)",16
+2021,6,"Colima","Homicidio doloso","Mujer","Menores de edad (0-17)",2
+2021,7,"Chiapas","Homicidio doloso","Hombre","Adultos (18 y más)",444
+2021,7,"Chiapas","Homicidio doloso","Hombre","Menores de edad (0-17)",20
+2021,7,"Chiapas","Homicidio doloso","Mujer","Adultos (18 y más)",19
+2021,7,"Chiapas","Homicidio doloso","Mujer","Menores de edad (0-17)",5
+2021,8,"Chihuahua","Homicidio doloso","Hombre","Adultos (18 y más)",2101
+2021,8,"Chihuahua","Homicidio doloso","Hombre","Menores de edad (0-17)",73
+2021,8,"Chihuahua","Homicidio doloso","Mujer","Adultos (18 y más)",250
+2021,8,"Chihuahua","Homicidio doloso","Mujer","Menores de edad (0-17)",8
+2021,9,"Ciudad de México","Homicidio doloso","Hombre","Adultos (18 y más)",849
+2021,9,"Ciudad de México","Homicidio doloso","Hombre","Menores de edad (0-17)",31
+2021,9,"Ciudad de México","Homicidio doloso","Mujer","Adultos (18 y más)",78
+2021,9,"Ciudad de México","Homicidio doloso","Mujer","Menores de edad (0-17)",3
+2021,10,"Durango","Homicidio doloso","Hombre","Adultos (18 y más)",146
+2021,10,"Durango","Homicidio doloso","Hombre","Menores de edad (0-17)",7
+2021,10,"Durango","Homicidio doloso","Mujer","Adultos (18 y más)",2
+2021,10,"Durango","Homicidio doloso","Mujer","Menores de edad (0-17)",0
+2021,11,"Guanajuato","Homicidio doloso","Hombre","Adultos (18 y más)",2442
+2021,11,"Guanajuato","Homicidio doloso","Hombre","Menores de edad (0-17)",137
+2021,11,"Guanajuato","Homicidio doloso","Mujer","Adultos (18 y más)",275
+2021,11,"Guanajuato","Homicidio doloso","Mujer","Menores de edad (0-17)",26
+2021,12,"Guerrero","Homicidio doloso","Hombre","Adultos (18 y más)",1084
+2021,12,"Guerrero","Homicidio doloso","Hombre","Menores de edad (0-17)",30
+2021,12,"Guerrero","Homicidio doloso","Mujer","Adultos (18 y más)",101
+2021,12,"Guerrero","Homicidio doloso","Mujer","Menores de edad (0-17)",8
+2021,13,"Hidalgo","Homicidio doloso","Hombre","Adultos (18 y más)",113
+2021,13,"Hidalgo","Homicidio doloso","Hombre","Menores de edad (0-17)",4
+2021,13,"Hidalgo","Homicidio doloso","Mujer","Adultos (18 y más)",14
+2021,13,"Hidalgo","Homicidio doloso","Mujer","Menores de edad (0-17)",0
+2021,14,"Jalisco","Homicidio doloso","Hombre","Adultos (18 y más)",1707
+2021,14,"Jalisco","Homicidio doloso","Hombre","Menores de edad (0-17)",48
+2021,14,"Jalisco","Homicidio doloso","Mujer","Adultos (18 y más)",163
+2021,14,"Jalisco","Homicidio doloso","Mujer","Menores de edad (0-17)",13
+2021,15,"México","Homicidio doloso","Hombre","Adultos (18 y más)",2264
+2021,15,"México","Homicidio doloso","Hombre","Menores de edad (0-17)",79
+2021,15,"México","Homicidio doloso","Mujer","Adultos (18 y más)",210
+2021,15,"México","Homicidio doloso","Mujer","Menores de edad (0-17)",16
+2021,16,"Michoacán de Ocampo","Homicidio doloso","Hombre","Adultos (18 y más)",1955
+2021,16,"Michoacán de Ocampo","Homicidio doloso","Hombre","Menores de edad (0-17)",85
+2021,16,"Michoacán de Ocampo","Homicidio doloso","Mujer","Adultos (18 y más)",207
+2021,16,"Michoacán de Ocampo","Homicidio doloso","Mujer","Menores de edad (0-17)",18
+2021,17,"Morelos","Homicidio doloso","Hombre","Adultos (18 y más)",799
+2021,17,"Morelos","Homicidio doloso","Hombre","Menores de edad (0-17)",31
+2021,17,"Morelos","Homicidio doloso","Mujer","Adultos (18 y más)",63
+2021,17,"Morelos","Homicidio doloso","Mujer","Menores de edad (0-17)",3
+2021,18,"Nayarit","Homicidio doloso","Hombre","Adultos (18 y más)",149
+2021,18,"Nayarit","Homicidio doloso","Hombre","Menores de edad (0-17)",6
+2021,18,"Nayarit","Homicidio doloso","Mujer","Adultos (18 y más)",12
+2021,18,"Nayarit","Homicidio doloso","Mujer","Menores de edad (0-17)",2
+2021,19,"Nuevo León","Homicidio doloso","Hombre","Adultos (18 y más)",898
+2021,19,"Nuevo León","Homicidio doloso","Hombre","Menores de edad (0-17)",24
+2021,19,"Nuevo León","Homicidio doloso","Mujer","Adultos (18 y más)",35
+2021,19,"Nuevo León","Homicidio doloso","Mujer","Menores de edad (0-17)",0
+2021,20,"Oaxaca","Homicidio doloso","Hombre","Adultos (18 y más)",680
+2021,20,"Oaxaca","Homicidio doloso","Hombre","Menores de edad (0-17)",17
+2021,20,"Oaxaca","Homicidio doloso","Mujer","Adultos (18 y más)",56
+2021,20,"Oaxaca","Homicidio doloso","Mujer","Menores de edad (0-17)",3
+2021,21,"Puebla","Homicidio doloso","Hombre","Adultos (18 y más)",630
+2021,21,"Puebla","Homicidio doloso","Hombre","Menores de edad (0-17)",20
+2021,21,"Puebla","Homicidio doloso","Mujer","Adultos (18 y más)",68
+2021,21,"Puebla","Homicidio doloso","Mujer","Menores de edad (0-17)",7
+2021,22,"Querétaro","Homicidio doloso","Hombre","Adultos (18 y más)",155
+2021,22,"Querétaro","Homicidio doloso","Hombre","Menores de edad (0-17)",4
+2021,22,"Querétaro","Homicidio doloso","Mujer","Adultos (18 y más)",12
+2021,22,"Querétaro","Homicidio doloso","Mujer","Menores de edad (0-17)",2
+2021,23,"Quintana Roo","Homicidio doloso","Hombre","Adultos (18 y más)",490
+2021,23,"Quintana Roo","Homicidio doloso","Hombre","Menores de edad (0-17)",13
+2021,23,"Quintana Roo","Homicidio doloso","Mujer","Adultos (18 y más)",39
+2021,23,"Quintana Roo","Homicidio doloso","Mujer","Menores de edad (0-17)",4
+2021,24,"San Luis Potosí","Homicidio doloso","Hombre","Adultos (18 y más)",586
+2021,24,"San Luis Potosí","Homicidio doloso","Hombre","Menores de edad (0-17)",31
+2021,24,"San Luis Potosí","Homicidio doloso","Mujer","Adultos (18 y más)",45
+2021,24,"San Luis Potosí","Homicidio doloso","Mujer","Menores de edad (0-17)",4
+2021,25,"Sinaloa","Homicidio doloso","Hombre","Adultos (18 y más)",499
+2021,25,"Sinaloa","Homicidio doloso","Hombre","Menores de edad (0-17)",11
+2021,25,"Sinaloa","Homicidio doloso","Mujer","Adultos (18 y más)",7
+2021,25,"Sinaloa","Homicidio doloso","Mujer","Menores de edad (0-17)",0
+2021,26,"Sonora","Homicidio doloso","Hombre","Adultos (18 y más)",1264
+2021,26,"Sonora","Homicidio doloso","Hombre","Menores de edad (0-17)",35
+2021,26,"Sonora","Homicidio doloso","Mujer","Adultos (18 y más)",80
+2021,26,"Sonora","Homicidio doloso","Mujer","Menores de edad (0-17)",1
+2021,27,"Tabasco","Homicidio doloso","Hombre","Adultos (18 y más)",375
+2021,27,"Tabasco","Homicidio doloso","Hombre","Menores de edad (0-17)",6
+2021,27,"Tabasco","Homicidio doloso","Mujer","Adultos (18 y más)",28
+2021,27,"Tabasco","Homicidio doloso","Mujer","Menores de edad (0-17)",3
+2021,28,"Tamaulipas","Homicidio doloso","Hombre","Adultos (18 y más)",258
+2021,28,"Tamaulipas","Homicidio doloso","Hombre","Menores de edad (0-17)",12
+2021,28,"Tamaulipas","Homicidio doloso","Mujer","Adultos (18 y más)",33
+2021,28,"Tamaulipas","Homicidio doloso","Mujer","Menores de edad (0-17)",5
+2021,29,"Tlaxcala","Homicidio doloso","Hombre","Adultos (18 y más)",102
+2021,29,"Tlaxcala","Homicidio doloso","Hombre","Menores de edad (0-17)",2
+2021,29,"Tlaxcala","Homicidio doloso","Mujer","Adultos (18 y más)",17
+2021,29,"Tlaxcala","Homicidio doloso","Mujer","Menores de edad (0-17)",0
+2021,30,"Veracruz de Ignacio de la Llave","Homicidio doloso","Hombre","Adultos (18 y más)",847
+2021,30,"Veracruz de Ignacio de la Llave","Homicidio doloso","Hombre","Menores de edad (0-17)",19
+2021,30,"Veracruz de Ignacio de la Llave","Homicidio doloso","Mujer","Adultos (18 y más)",69
+2021,30,"Veracruz de Ignacio de la Llave","Homicidio doloso","Mujer","Menores de edad (0-17)",1
+2021,31,"Yucatán","Homicidio doloso","Hombre","Adultos (18 y más)",41
+2021,31,"Yucatán","Homicidio doloso","Hombre","Menores de edad (0-17)",0
+2021,31,"Yucatán","Homicidio doloso","Mujer","Adultos (18 y más)",1
+2021,31,"Yucatán","Homicidio doloso","Mujer","Menores de edad (0-17)",0
+2021,32,"Zacatecas","Homicidio doloso","Hombre","Adultos (18 y más)",1327
+2021,32,"Zacatecas","Homicidio doloso","Hombre","Menores de edad (0-17)",91
+2021,32,"Zacatecas","Homicidio doloso","Mujer","Adultos (18 y más)",112
+2021,32,"Zacatecas","Homicidio doloso","Mujer","Menores de edad (0-17)",21
+2022,1,"Aguascalientes","Homicidio doloso","Hombre","Adultos (18 y más)",70
+2022,1,"Aguascalientes","Homicidio doloso","Hombre","Menores de edad (0-17)",3
+2022,1,"Aguascalientes","Homicidio doloso","Mujer","Adultos (18 y más)",5
+2022,1,"Aguascalientes","Homicidio doloso","Mujer","Menores de edad (0-17)",0
+2022,2,"Baja California","Homicidio doloso","Hombre","Adultos (18 y más)",1976
+2022,2,"Baja California","Homicidio doloso","Hombre","Menores de edad (0-17)",44
+2022,2,"Baja California","Homicidio doloso","Mujer","Adultos (18 y más)",229
+2022,2,"Baja California","Homicidio doloso","Mujer","Menores de edad (0-17)",3
+2022,3,"Baja California Sur","Homicidio doloso","Hombre","Adultos (18 y más)",12
+2022,3,"Baja California Sur","Homicidio doloso","Hombre","Menores de edad (0-17)",0
+2022,3,"Baja California Sur","Homicidio doloso","Mujer","Adultos (18 y más)",0
+2022,3,"Baja California Sur","Homicidio doloso","Mujer","Menores de edad (0-17)",0
+2022,4,"Campeche","Homicidio doloso","Hombre","Adultos (18 y más)",87
+2022,4,"Campeche","Homicidio doloso","Hombre","Menores de edad (0-17)",1
+2022,4,"Campeche","Homicidio doloso","Mujer","Adultos (18 y más)",1
+2022,4,"Campeche","Homicidio doloso","Mujer","Menores de edad (0-17)",0
+2022,5,"Coahuila de Zaragoza","Homicidio doloso","Hombre","Adultos (18 y más)",117
+2022,5,"Coahuila de Zaragoza","Homicidio doloso","Hombre","Menores de edad (0-17)",6
+2022,5,"Coahuila de Zaragoza","Homicidio doloso","Mujer","Adultos (18 y más)",7
+2022,5,"Coahuila de Zaragoza","Homicidio doloso","Mujer","Menores de edad (0-17)",0
+2022,6,"Colima","Homicidio doloso","Hombre","Adultos (18 y más)",359
+2022,6,"Colima","Homicidio doloso","Hombre","Menores de edad (0-17)",16
+2022,6,"Colima","Homicidio doloso","Mujer","Adultos (18 y más)",42
+2022,6,"Colima","Homicidio doloso","Mujer","Menores de edad (0-17)",3
+2022,7,"Chiapas","Homicidio doloso","Hombre","Adultos (18 y más)",394
+2022,7,"Chiapas","Homicidio doloso","Hombre","Menores de edad (0-17)",11
+2022,7,"Chiapas","Homicidio doloso","Mujer","Adultos (18 y más)",15
+2022,7,"Chiapas","Homicidio doloso","Mujer","Menores de edad (0-17)",3
+2022,8,"Chihuahua","Homicidio doloso","Hombre","Adultos (18 y más)",1731
+2022,8,"Chihuahua","Homicidio doloso","Hombre","Menores de edad (0-17)",52
+2022,8,"Chihuahua","Homicidio doloso","Mujer","Adultos (18 y más)",175
+2022,8,"Chihuahua","Homicidio doloso","Mujer","Menores de edad (0-17)",7
+2022,9,"Ciudad de México","Homicidio doloso","Hombre","Adultos (18 y más)",643
+2022,9,"Ciudad de México","Homicidio doloso","Hombre","Menores de edad (0-17)",25
+2022,9,"Ciudad de México","Homicidio doloso","Mujer","Adultos (18 y más)",59
+2022,9,"Ciudad de México","Homicidio doloso","Mujer","Menores de edad (0-17)",6
+2022,10,"Durango","Homicidio doloso","Hombre","Adultos (18 y más)",112
+2022,10,"Durango","Homicidio doloso","Hombre","Menores de edad (0-17)",9
+2022,10,"Durango","Homicidio doloso","Mujer","Adultos (18 y más)",5
+2022,10,"Durango","Homicidio doloso","Mujer","Menores de edad (0-17)",0
+2022,11,"Guanajuato","Homicidio doloso","Hombre","Adultos (18 y más)",2063
+2022,11,"Guanajuato","Homicidio doloso","Hombre","Menores de edad (0-17)",129
+2022,11,"Guanajuato","Homicidio doloso","Mujer","Adultos (18 y más)",305
+2022,11,"Guanajuato","Homicidio doloso","Mujer","Menores de edad (0-17)",25
+2022,12,"Guerrero","Homicidio doloso","Hombre","Adultos (18 y más)",962
+2022,12,"Guerrero","Homicidio doloso","Hombre","Menores de edad (0-17)",53
+2022,12,"Guerrero","Homicidio doloso","Mujer","Adultos (18 y más)",92
+2022,12,"Guerrero","Homicidio doloso","Mujer","Menores de edad (0-17)",10
+2022,13,"Hidalgo","Homicidio doloso","Hombre","Adultos (18 y más)",212
+2022,13,"Hidalgo","Homicidio doloso","Hombre","Menores de edad (0-17)",7
+2022,13,"Hidalgo","Homicidio doloso","Mujer","Adultos (18 y más)",29
+2022,13,"Hidalgo","Homicidio doloso","Mujer","Menores de edad (0-17)",0
+2022,14,"Jalisco","Homicidio doloso","Hombre","Adultos (18 y más)",1414
+2022,14,"Jalisco","Homicidio doloso","Hombre","Menores de edad (0-17)",37
+2022,14,"Jalisco","Homicidio doloso","Mujer","Adultos (18 y más)",141
+2022,14,"Jalisco","Homicidio doloso","Mujer","Menores de edad (0-17)",10
+2022,15,"México","Homicidio doloso","Hombre","Adultos (18 y más)",2149
+2022,15,"México","Homicidio doloso","Hombre","Menores de edad (0-17)",81
+2022,15,"México","Homicidio doloso","Mujer","Adultos (18 y más)",228
+2022,15,"México","Homicidio doloso","Mujer","Menores de edad (0-17)",23
+2022,16,"Michoacán de Ocampo","Homicidio doloso","Hombre","Adultos (18 y más)",1707
+2022,16,"Michoacán de Ocampo","Homicidio doloso","Hombre","Menores de edad (0-17)",96
+2022,16,"Michoacán de Ocampo","Homicidio doloso","Mujer","Adultos (18 y más)",187
+2022,16,"Michoacán de Ocampo","Homicidio doloso","Mujer","Menores de edad (0-17)",20
+2022,17,"Morelos","Homicidio doloso","Hombre","Adultos (18 y más)",884
+2022,17,"Morelos","Homicidio doloso","Hombre","Menores de edad (0-17)",34
+2022,17,"Morelos","Homicidio doloso","Mujer","Adultos (18 y más)",73
+2022,17,"Morelos","Homicidio doloso","Mujer","Menores de edad (0-17)",8
+2022,18,"Nayarit","Homicidio doloso","Hombre","Adultos (18 y más)",115
+2022,18,"Nayarit","Homicidio doloso","Hombre","Menores de edad (0-17)",8
+2022,18,"Nayarit","Homicidio doloso","Mujer","Adultos (18 y más)",9
+2022,18,"Nayarit","Homicidio doloso","Mujer","Menores de edad (0-17)",2
+2022,19,"Nuevo León","Homicidio doloso","Hombre","Adultos (18 y más)",1192
+2022,19,"Nuevo León","Homicidio doloso","Hombre","Menores de edad (0-17)",37
+2022,19,"Nuevo León","Homicidio doloso","Mujer","Adultos (18 y más)",52
+2022,19,"Nuevo León","Homicidio doloso","Mujer","Menores de edad (0-17)",2
+2022,20,"Oaxaca","Homicidio doloso","Hombre","Adultos (18 y más)",759
+2022,20,"Oaxaca","Homicidio doloso","Hombre","Menores de edad (0-17)",17
+2022,20,"Oaxaca","Homicidio doloso","Mujer","Adultos (18 y más)",104
+2022,20,"Oaxaca","Homicidio doloso","Mujer","Menores de edad (0-17)",19
+2022,21,"Puebla","Homicidio doloso","Hombre","Adultos (18 y más)",660
+2022,21,"Puebla","Homicidio doloso","Hombre","Menores de edad (0-17)",31
+2022,21,"Puebla","Homicidio doloso","Mujer","Adultos (18 y más)",81
+2022,21,"Puebla","Homicidio doloso","Mujer","Menores de edad (0-17)",6
+2022,22,"Querétaro","Homicidio doloso","Hombre","Adultos (18 y más)",153
+2022,22,"Querétaro","Homicidio doloso","Hombre","Menores de edad (0-17)",2
+2022,22,"Querétaro","Homicidio doloso","Mujer","Adultos (18 y más)",9
+2022,22,"Querétaro","Homicidio doloso","Mujer","Menores de edad (0-17)",2
+2022,23,"Quintana Roo","Homicidio doloso","Hombre","Adultos (18 y más)",462
+2022,23,"Quintana Roo","Homicidio doloso","Hombre","Menores de edad (0-17)",28
+2022,23,"Quintana Roo","Homicidio doloso","Mujer","Adultos (18 y más)",35
+2022,23,"Quintana Roo","Homicidio doloso","Mujer","Menores de edad (0-17)",1
+2022,24,"San Luis Potosí","Homicidio doloso","Hombre","Adultos (18 y más)",585
+2022,24,"San Luis Potosí","Homicidio doloso","Hombre","Menores de edad (0-17)",16
+2022,24,"San Luis Potosí","Homicidio doloso","Mujer","Adultos (18 y más)",27
+2022,24,"San Luis Potosí","Homicidio doloso","Mujer","Menores de edad (0-17)",5
+2022,25,"Sinaloa","Homicidio doloso","Hombre","Adultos (18 y más)",395
+2022,25,"Sinaloa","Homicidio doloso","Hombre","Menores de edad (0-17)",8
+2022,25,"Sinaloa","Homicidio doloso","Mujer","Adultos (18 y más)",13
+2022,25,"Sinaloa","Homicidio doloso","Mujer","Menores de edad (0-17)",0
+2022,26,"Sonora","Homicidio doloso","Hombre","Adultos (18 y más)",968
+2022,26,"Sonora","Homicidio doloso","Hombre","Menores de edad (0-17)",40
+2022,26,"Sonora","Homicidio doloso","Mujer","Adultos (18 y más)",77
+2022,26,"Sonora","Homicidio doloso","Mujer","Menores de edad (0-17)",4
+2022,27,"Tabasco","Homicidio doloso","Hombre","Adultos (18 y más)",264
+2022,27,"Tabasco","Homicidio doloso","Hombre","Menores de edad (0-17)",8
+2022,27,"Tabasco","Homicidio doloso","Mujer","Adultos (18 y más)",24
+2022,27,"Tabasco","Homicidio doloso","Mujer","Menores de edad (0-17)",2
+2022,28,"Tamaulipas","Homicidio doloso","Hombre","Adultos (18 y más)",156
+2022,28,"Tamaulipas","Homicidio doloso","Hombre","Menores de edad (0-17)",6
+2022,28,"Tamaulipas","Homicidio doloso","Mujer","Adultos (18 y más)",27
+2022,28,"Tamaulipas","Homicidio doloso","Mujer","Menores de edad (0-17)",2
+2022,29,"Tlaxcala","Homicidio doloso","Hombre","Adultos (18 y más)",113
+2022,29,"Tlaxcala","Homicidio doloso","Hombre","Menores de edad (0-17)",10
+2022,29,"Tlaxcala","Homicidio doloso","Mujer","Adultos (18 y más)",6
+2022,29,"Tlaxcala","Homicidio doloso","Mujer","Menores de edad (0-17)",0
+2022,30,"Veracruz de Ignacio de la Llave","Homicidio doloso","Hombre","Adultos (18 y más)",642
+2022,30,"Veracruz de Ignacio de la Llave","Homicidio doloso","Hombre","Menores de edad (0-17)",16
+2022,30,"Veracruz de Ignacio de la Llave","Homicidio doloso","Mujer","Adultos (18 y más)",59
+2022,30,"Veracruz de Ignacio de la Llave","Homicidio doloso","Mujer","Menores de edad (0-17)",3
+2022,31,"Yucatán","Homicidio doloso","Hombre","Adultos (18 y más)",34
+2022,31,"Yucatán","Homicidio doloso","Hombre","Menores de edad (0-17)",1
+2022,31,"Yucatán","Homicidio doloso","Mujer","Adultos (18 y más)",4
+2022,31,"Yucatán","Homicidio doloso","Mujer","Menores de edad (0-17)",0
+2022,32,"Zacatecas","Homicidio doloso","Hombre","Adultos (18 y más)",987
+2022,32,"Zacatecas","Homicidio doloso","Hombre","Menores de edad (0-17)",101
+2022,32,"Zacatecas","Homicidio doloso","Mujer","Adultos (18 y más)",103
+2022,32,"Zacatecas","Homicidio doloso","Mujer","Menores de edad (0-17)",14
+2023,1,"Aguascalientes","Homicidio doloso","Hombre","Adultos (18 y más)",77
+2023,1,"Aguascalientes","Homicidio doloso","Hombre","Menores de edad (0-17)",4
+2023,1,"Aguascalientes","Homicidio doloso","Mujer","Adultos (18 y más)",8
+2023,1,"Aguascalientes","Homicidio doloso","Mujer","Menores de edad (0-17)",0
+2023,2,"Baja California","Homicidio doloso","Hombre","Adultos (18 y más)",1906
+2023,2,"Baja California","Homicidio doloso","Hombre","Menores de edad (0-17)",31
+2023,2,"Baja California","Homicidio doloso","Mujer","Adultos (18 y más)",218
+2023,2,"Baja California","Homicidio doloso","Mujer","Menores de edad (0-17)",7
+2023,3,"Baja California Sur","Homicidio doloso","Hombre","Adultos (18 y más)",15
+2023,3,"Baja California Sur","Homicidio doloso","Hombre","Menores de edad (0-17)",0
+2023,3,"Baja California Sur","Homicidio doloso","Mujer","Adultos (18 y más)",2
+2023,3,"Baja California Sur","Homicidio doloso","Mujer","Menores de edad (0-17)",0
+2023,4,"Campeche","Homicidio doloso","Hombre","Adultos (18 y más)",92
+2023,4,"Campeche","Homicidio doloso","Hombre","Menores de edad (0-17)",2
+2023,4,"Campeche","Homicidio doloso","Mujer","Adultos (18 y más)",4
+2023,4,"Campeche","Homicidio doloso","Mujer","Menores de edad (0-17)",0
+2023,5,"Coahuila de Zaragoza","Homicidio doloso","Hombre","Adultos (18 y más)",109
+2023,5,"Coahuila de Zaragoza","Homicidio doloso","Hombre","Menores de edad (0-17)",4
+2023,5,"Coahuila de Zaragoza","Homicidio doloso","Mujer","Adultos (18 y más)",2
+2023,5,"Coahuila de Zaragoza","Homicidio doloso","Mujer","Menores de edad (0-17)",0
+2023,6,"Colima","Homicidio doloso","Hombre","Adultos (18 y más)",342
+2023,6,"Colima","Homicidio doloso","Hombre","Menores de edad (0-17)",13
+2023,6,"Colima","Homicidio doloso","Mujer","Adultos (18 y más)",48
+2023,6,"Colima","Homicidio doloso","Mujer","Menores de edad (0-17)",1
+2023,7,"Chiapas","Homicidio doloso","Hombre","Adultos (18 y más)",525
+2023,7,"Chiapas","Homicidio doloso","Hombre","Menores de edad (0-17)",12
+2023,7,"Chiapas","Homicidio doloso","Mujer","Adultos (18 y más)",22
+2023,7,"Chiapas","Homicidio doloso","Mujer","Menores de edad (0-17)",5
+2023,8,"Chihuahua","Homicidio doloso","Hombre","Adultos (18 y más)",1791
+2023,8,"Chihuahua","Homicidio doloso","Hombre","Menores de edad (0-17)",53
+2023,8,"Chihuahua","Homicidio doloso","Mujer","Adultos (18 y más)",191
+2023,8,"Chihuahua","Homicidio doloso","Mujer","Menores de edad (0-17)",10
+2023,9,"Ciudad de México","Homicidio doloso","Hombre","Adultos (18 y más)",759
+2023,9,"Ciudad de México","Homicidio doloso","Hombre","Menores de edad (0-17)",24
+2023,9,"Ciudad de México","Homicidio doloso","Mujer","Adultos (18 y más)",60
+2023,9,"Ciudad de México","Homicidio doloso","Mujer","Menores de edad (0-17)",4
+2023,10,"Durango","Homicidio doloso","Hombre","Adultos (18 y más)",79
+2023,10,"Durango","Homicidio doloso","Hombre","Menores de edad (0-17)",4
+2023,10,"Durango","Homicidio doloso","Mujer","Adultos (18 y más)",5
+2023,10,"Durango","Homicidio doloso","Mujer","Menores de edad (0-17)",1
+2023,11,"Guanajuato","Homicidio doloso","Hombre","Adultos (18 y más)",1799
+2023,11,"Guanajuato","Homicidio doloso","Hombre","Menores de edad (0-17)",95
+2023,11,"Guanajuato","Homicidio doloso","Mujer","Adultos (18 y más)",251
+2023,11,"Guanajuato","Homicidio doloso","Mujer","Menores de edad (0-17)",21
+2023,12,"Guerrero","Homicidio doloso","Hombre","Adultos (18 y más)",1148
+2023,12,"Guerrero","Homicidio doloso","Hombre","Menores de edad (0-17)",40
+2023,12,"Guerrero","Homicidio doloso","Mujer","Adultos (18 y más)",100
+2023,12,"Guerrero","Homicidio doloso","Mujer","Menores de edad (0-17)",6
+2023,13,"Hidalgo","Homicidio doloso","Hombre","Adultos (18 y más)",195
+2023,13,"Hidalgo","Homicidio doloso","Hombre","Menores de edad (0-17)",0
+2023,13,"Hidalgo","Homicidio doloso","Mujer","Adultos (18 y más)",14
+2023,13,"Hidalgo","Homicidio doloso","Mujer","Menores de edad (0-17)",2
+2023,14,"Jalisco","Homicidio doloso","Hombre","Adultos (18 y más)",1317
+2023,14,"Jalisco","Homicidio doloso","Hombre","Menores de edad (0-17)",46
+2023,14,"Jalisco","Homicidio doloso","Mujer","Adultos (18 y más)",111
+2023,14,"Jalisco","Homicidio doloso","Mujer","Menores de edad (0-17)",11
+2023,15,"México","Homicidio doloso","Hombre","Adultos (18 y más)",2133
+2023,15,"México","Homicidio doloso","Hombre","Menores de edad (0-17)",70
+2023,15,"México","Homicidio doloso","Mujer","Adultos (18 y más)",236
+2023,15,"México","Homicidio doloso","Mujer","Menores de edad (0-17)",13
+2023,16,"Michoacán de Ocampo","Homicidio doloso","Hombre","Adultos (18 y más)",1296
+2023,16,"Michoacán de Ocampo","Homicidio doloso","Hombre","Menores de edad (0-17)",53
+2023,16,"Michoacán de Ocampo","Homicidio doloso","Mujer","Adultos (18 y más)",140
+2023,16,"Michoacán de Ocampo","Homicidio doloso","Mujer","Menores de edad (0-17)",5
+2023,17,"Morelos","Homicidio doloso","Hombre","Adultos (18 y más)",1176
+2023,17,"Morelos","Homicidio doloso","Hombre","Menores de edad (0-17)",34
+2023,17,"Morelos","Homicidio doloso","Mujer","Adultos (18 y más)",96
+2023,17,"Morelos","Homicidio doloso","Mujer","Menores de edad (0-17)",10
+2023,18,"Nayarit","Homicidio doloso","Hombre","Adultos (18 y más)",86
+2023,18,"Nayarit","Homicidio doloso","Hombre","Menores de edad (0-17)",3
+2023,18,"Nayarit","Homicidio doloso","Mujer","Adultos (18 y más)",7
+2023,18,"Nayarit","Homicidio doloso","Mujer","Menores de edad (0-17)",2
+2023,19,"Nuevo León","Homicidio doloso","Hombre","Adultos (18 y más)",1146
+2023,19,"Nuevo León","Homicidio doloso","Hombre","Menores de edad (0-17)",34
+2023,19,"Nuevo León","Homicidio doloso","Mujer","Adultos (18 y más)",80
+2023,19,"Nuevo León","Homicidio doloso","Mujer","Menores de edad (0-17)",6
+2023,20,"Oaxaca","Homicidio doloso","Hombre","Adultos (18 y más)",765
+2023,20,"Oaxaca","Homicidio doloso","Hombre","Menores de edad (0-17)",36
+2023,20,"Oaxaca","Homicidio doloso","Mujer","Adultos (18 y más)",55
+2023,20,"Oaxaca","Homicidio doloso","Mujer","Menores de edad (0-17)",6
+2023,21,"Puebla","Homicidio doloso","Hombre","Adultos (18 y más)",578
+2023,21,"Puebla","Homicidio doloso","Hombre","Menores de edad (0-17)",19
+2023,21,"Puebla","Homicidio doloso","Mujer","Adultos (18 y más)",44
+2023,21,"Puebla","Homicidio doloso","Mujer","Menores de edad (0-17)",4
+2023,22,"Querétaro","Homicidio doloso","Hombre","Adultos (18 y más)",168
+2023,22,"Querétaro","Homicidio doloso","Hombre","Menores de edad (0-17)",8
+2023,22,"Querétaro","Homicidio doloso","Mujer","Adultos (18 y más)",16
+2023,22,"Querétaro","Homicidio doloso","Mujer","Menores de edad (0-17)",1
+2023,23,"Quintana Roo","Homicidio doloso","Hombre","Adultos (18 y más)",576
+2023,23,"Quintana Roo","Homicidio doloso","Hombre","Menores de edad (0-17)",32
+2023,23,"Quintana Roo","Homicidio doloso","Mujer","Adultos (18 y más)",51
+2023,23,"Quintana Roo","Homicidio doloso","Mujer","Menores de edad (0-17)",2
+2023,24,"San Luis Potosí","Homicidio doloso","Hombre","Adultos (18 y más)",406
+2023,24,"San Luis Potosí","Homicidio doloso","Hombre","Menores de edad (0-17)",15
+2023,24,"San Luis Potosí","Homicidio doloso","Mujer","Adultos (18 y más)",36
+2023,24,"San Luis Potosí","Homicidio doloso","Mujer","Menores de edad (0-17)",2
+2023,25,"Sinaloa","Homicidio doloso","Hombre","Adultos (18 y más)",410
+2023,25,"Sinaloa","Homicidio doloso","Hombre","Menores de edad (0-17)",9
+2023,25,"Sinaloa","Homicidio doloso","Mujer","Adultos (18 y más)",5
+2023,25,"Sinaloa","Homicidio doloso","Mujer","Menores de edad (0-17)",0
+2023,26,"Sonora","Homicidio doloso","Hombre","Adultos (18 y más)",892
+2023,26,"Sonora","Homicidio doloso","Hombre","Menores de edad (0-17)",32
+2023,26,"Sonora","Homicidio doloso","Mujer","Adultos (18 y más)",76
+2023,26,"Sonora","Homicidio doloso","Mujer","Menores de edad (0-17)",9
+2023,27,"Tabasco","Homicidio doloso","Hombre","Adultos (18 y más)",201
+2023,27,"Tabasco","Homicidio doloso","Hombre","Menores de edad (0-17)",8
+2023,27,"Tabasco","Homicidio doloso","Mujer","Adultos (18 y más)",9
+2023,27,"Tabasco","Homicidio doloso","Mujer","Menores de edad (0-17)",0
+2023,28,"Tamaulipas","Homicidio doloso","Hombre","Adultos (18 y más)",190
+2023,28,"Tamaulipas","Homicidio doloso","Hombre","Menores de edad (0-17)",8
+2023,28,"Tamaulipas","Homicidio doloso","Mujer","Adultos (18 y más)",20
+2023,28,"Tamaulipas","Homicidio doloso","Mujer","Menores de edad (0-17)",1
+2023,29,"Tlaxcala","Homicidio doloso","Hombre","Adultos (18 y más)",92
+2023,29,"Tlaxcala","Homicidio doloso","Hombre","Menores de edad (0-17)",1
+2023,29,"Tlaxcala","Homicidio doloso","Mujer","Adultos (18 y más)",2
+2023,29,"Tlaxcala","Homicidio doloso","Mujer","Menores de edad (0-17)",0
+2023,30,"Veracruz de Ignacio de la Llave","Homicidio doloso","Hombre","Adultos (18 y más)",766
+2023,30,"Veracruz de Ignacio de la Llave","Homicidio doloso","Hombre","Menores de edad (0-17)",20
+2023,30,"Veracruz de Ignacio de la Llave","Homicidio doloso","Mujer","Adultos (18 y más)",55
+2023,30,"Veracruz de Ignacio de la Llave","Homicidio doloso","Mujer","Menores de edad (0-17)",3
+2023,31,"Yucatán","Homicidio doloso","Hombre","Adultos (18 y más)",29
+2023,31,"Yucatán","Homicidio doloso","Hombre","Menores de edad (0-17)",2
+2023,31,"Yucatán","Homicidio doloso","Mujer","Adultos (18 y más)",2
+2023,31,"Yucatán","Homicidio doloso","Mujer","Menores de edad (0-17)",1
+2023,32,"Zacatecas","Homicidio doloso","Hombre","Adultos (18 y más)",829
+2023,32,"Zacatecas","Homicidio doloso","Hombre","Menores de edad (0-17)",47
+2023,32,"Zacatecas","Homicidio doloso","Mujer","Adultos (18 y más)",75
+2023,32,"Zacatecas","Homicidio doloso","Mujer","Menores de edad (0-17)",9
+2024,1,"Aguascalientes","Homicidio doloso","Hombre","Adultos (18 y más)",102
+2024,1,"Aguascalientes","Homicidio doloso","Hombre","Menores de edad (0-17)",4
+2024,1,"Aguascalientes","Homicidio doloso","Mujer","Adultos (18 y más)",7
+2024,1,"Aguascalientes","Homicidio doloso","Mujer","Menores de edad (0-17)",0
+2024,2,"Baja California","Homicidio doloso","Hombre","Adultos (18 y más)",1808
+2024,2,"Baja California","Homicidio doloso","Hombre","Menores de edad (0-17)",36
+2024,2,"Baja California","Homicidio doloso","Mujer","Adultos (18 y más)",221
+2024,2,"Baja California","Homicidio doloso","Mujer","Menores de edad (0-17)",3
+2024,3,"Baja California Sur","Homicidio doloso","Hombre","Adultos (18 y más)",40
+2024,3,"Baja California Sur","Homicidio doloso","Hombre","Menores de edad (0-17)",1
+2024,3,"Baja California Sur","Homicidio doloso","Mujer","Adultos (18 y más)",4
+2024,3,"Baja California Sur","Homicidio doloso","Mujer","Menores de edad (0-17)",0
+2024,4,"Campeche","Homicidio doloso","Hombre","Adultos (18 y más)",92
+2024,4,"Campeche","Homicidio doloso","Hombre","Menores de edad (0-17)",1
+2024,4,"Campeche","Homicidio doloso","Mujer","Adultos (18 y más)",0
+2024,4,"Campeche","Homicidio doloso","Mujer","Menores de edad (0-17)",0
+2024,5,"Coahuila de Zaragoza","Homicidio doloso","Hombre","Adultos (18 y más)",90
+2024,5,"Coahuila de Zaragoza","Homicidio doloso","Hombre","Menores de edad (0-17)",9
+2024,5,"Coahuila de Zaragoza","Homicidio doloso","Mujer","Adultos (18 y más)",5
+2024,5,"Coahuila de Zaragoza","Homicidio doloso","Mujer","Menores de edad (0-17)",2
+2024,6,"Colima","Homicidio doloso","Hombre","Adultos (18 y más)",394
+2024,6,"Colima","Homicidio doloso","Hombre","Menores de edad (0-17)",15
+2024,6,"Colima","Homicidio doloso","Mujer","Adultos (18 y más)",54
+2024,6,"Colima","Homicidio doloso","Mujer","Menores de edad (0-17)",5
+2024,7,"Chiapas","Homicidio doloso","Hombre","Adultos (18 y más)",761
+2024,7,"Chiapas","Homicidio doloso","Hombre","Menores de edad (0-17)",32
+2024,7,"Chiapas","Homicidio doloso","Mujer","Adultos (18 y más)",53
+2024,7,"Chiapas","Homicidio doloso","Mujer","Menores de edad (0-17)",4
+2024,8,"Chihuahua","Homicidio doloso","Hombre","Adultos (18 y más)",1559
+2024,8,"Chihuahua","Homicidio doloso","Hombre","Menores de edad (0-17)",49
+2024,8,"Chihuahua","Homicidio doloso","Mujer","Adultos (18 y más)",136
+2024,8,"Chihuahua","Homicidio doloso","Mujer","Menores de edad (0-17)",11
+2024,9,"Ciudad de México","Homicidio doloso","Hombre","Adultos (18 y más)",774
+2024,9,"Ciudad de México","Homicidio doloso","Hombre","Menores de edad (0-17)",36
+2024,9,"Ciudad de México","Homicidio doloso","Mujer","Adultos (18 y más)",64
+2024,9,"Ciudad de México","Homicidio doloso","Mujer","Menores de edad (0-17)",4
+2024,10,"Durango","Homicidio doloso","Hombre","Adultos (18 y más)",55
+2024,10,"Durango","Homicidio doloso","Hombre","Menores de edad (0-17)",5
+2024,10,"Durango","Homicidio doloso","Mujer","Adultos (18 y más)",6
+2024,10,"Durango","Homicidio doloso","Mujer","Menores de edad (0-17)",1
+2024,11,"Guanajuato","Homicidio doloso","Hombre","Adultos (18 y más)",1862
+2024,11,"Guanajuato","Homicidio doloso","Hombre","Menores de edad (0-17)",139
+2024,11,"Guanajuato","Homicidio doloso","Mujer","Adultos (18 y más)",253
+2024,11,"Guanajuato","Homicidio doloso","Mujer","Menores de edad (0-17)",18
+2024,12,"Guerrero","Homicidio doloso","Hombre","Adultos (18 y más)",1077
+2024,12,"Guerrero","Homicidio doloso","Hombre","Menores de edad (0-17)",39
+2024,12,"Guerrero","Homicidio doloso","Mujer","Adultos (18 y más)",136
+2024,12,"Guerrero","Homicidio doloso","Mujer","Menores de edad (0-17)",7
+2024,13,"Hidalgo","Homicidio doloso","Hombre","Adultos (18 y más)",128
+2024,13,"Hidalgo","Homicidio doloso","Hombre","Menores de edad (0-17)",2
+2024,13,"Hidalgo","Homicidio doloso","Mujer","Adultos (18 y más)",10
+2024,13,"Hidalgo","Homicidio doloso","Mujer","Menores de edad (0-17)",1
+2024,14,"Jalisco","Homicidio doloso","Hombre","Adultos (18 y más)",1256
+2024,14,"Jalisco","Homicidio doloso","Hombre","Menores de edad (0-17)",51
+2024,14,"Jalisco","Homicidio doloso","Mujer","Adultos (18 y más)",108
+2024,14,"Jalisco","Homicidio doloso","Mujer","Menores de edad (0-17)",12
+2024,15,"México","Homicidio doloso","Hombre","Adultos (18 y más)",1909
+2024,15,"México","Homicidio doloso","Hombre","Menores de edad (0-17)",70
+2024,15,"México","Homicidio doloso","Mujer","Adultos (18 y más)",177
+2024,15,"México","Homicidio doloso","Mujer","Menores de edad (0-17)",4
+2024,16,"Michoacán de Ocampo","Homicidio doloso","Hombre","Adultos (18 y más)",1129
+2024,16,"Michoacán de Ocampo","Homicidio doloso","Hombre","Menores de edad (0-17)",70
+2024,16,"Michoacán de Ocampo","Homicidio doloso","Mujer","Adultos (18 y más)",133
+2024,16,"Michoacán de Ocampo","Homicidio doloso","Mujer","Menores de edad (0-17)",6
+2024,17,"Morelos","Homicidio doloso","Hombre","Adultos (18 y más)",1258
+2024,17,"Morelos","Homicidio doloso","Hombre","Menores de edad (0-17)",36
+2024,17,"Morelos","Homicidio doloso","Mujer","Adultos (18 y más)",80
+2024,17,"Morelos","Homicidio doloso","Mujer","Menores de edad (0-17)",5
+2024,18,"Nayarit","Homicidio doloso","Hombre","Adultos (18 y más)",115
+2024,18,"Nayarit","Homicidio doloso","Hombre","Menores de edad (0-17)",3
+2024,18,"Nayarit","Homicidio doloso","Mujer","Adultos (18 y más)",9
+2024,18,"Nayarit","Homicidio doloso","Mujer","Menores de edad (0-17)",1
+2024,19,"Nuevo León","Homicidio doloso","Hombre","Adultos (18 y más)",1289
+2024,19,"Nuevo León","Homicidio doloso","Hombre","Menores de edad (0-17)",44
+2024,19,"Nuevo León","Homicidio doloso","Mujer","Adultos (18 y más)",109
+2024,19,"Nuevo León","Homicidio doloso","Mujer","Menores de edad (0-17)",4
+2024,20,"Oaxaca","Homicidio doloso","Hombre","Adultos (18 y más)",714
+2024,20,"Oaxaca","Homicidio doloso","Hombre","Menores de edad (0-17)",18
+2024,20,"Oaxaca","Homicidio doloso","Mujer","Adultos (18 y más)",70
+2024,20,"Oaxaca","Homicidio doloso","Mujer","Menores de edad (0-17)",6
+2024,21,"Puebla","Homicidio doloso","Hombre","Adultos (18 y más)",689
+2024,21,"Puebla","Homicidio doloso","Hombre","Menores de edad (0-17)",20
+2024,21,"Puebla","Homicidio doloso","Mujer","Adultos (18 y más)",67
+2024,21,"Puebla","Homicidio doloso","Mujer","Menores de edad (0-17)",7
+2024,22,"Querétaro","Homicidio doloso","Hombre","Adultos (18 y más)",174
+2024,22,"Querétaro","Homicidio doloso","Hombre","Menores de edad (0-17)",3
+2024,22,"Querétaro","Homicidio doloso","Mujer","Adultos (18 y más)",24
+2024,22,"Querétaro","Homicidio doloso","Mujer","Menores de edad (0-17)",0
+2024,23,"Quintana Roo","Homicidio doloso","Hombre","Adultos (18 y más)",545
+2024,23,"Quintana Roo","Homicidio doloso","Hombre","Menores de edad (0-17)",17
+2024,23,"Quintana Roo","Homicidio doloso","Mujer","Adultos (18 y más)",51
+2024,23,"Quintana Roo","Homicidio doloso","Mujer","Menores de edad (0-17)",2
+2024,24,"San Luis Potosí","Homicidio doloso","Hombre","Adultos (18 y más)",362
+2024,24,"San Luis Potosí","Homicidio doloso","Hombre","Menores de edad (0-17)",12
+2024,24,"San Luis Potosí","Homicidio doloso","Mujer","Adultos (18 y más)",26
+2024,24,"San Luis Potosí","Homicidio doloso","Mujer","Menores de edad (0-17)",2
+2024,25,"Sinaloa","Homicidio doloso","Hombre","Adultos (18 y más)",735
+2024,25,"Sinaloa","Homicidio doloso","Hombre","Menores de edad (0-17)",25
+2024,25,"Sinaloa","Homicidio doloso","Mujer","Adultos (18 y más)",24
+2024,25,"Sinaloa","Homicidio doloso","Mujer","Menores de edad (0-17)",1
+2024,26,"Sonora","Homicidio doloso","Hombre","Adultos (18 y más)",901
+2024,26,"Sonora","Homicidio doloso","Hombre","Menores de edad (0-17)",40
+2024,26,"Sonora","Homicidio doloso","Mujer","Adultos (18 y más)",53
+2024,26,"Sonora","Homicidio doloso","Mujer","Menores de edad (0-17)",1
+2024,27,"Tabasco","Homicidio doloso","Hombre","Adultos (18 y más)",774
+2024,27,"Tabasco","Homicidio doloso","Hombre","Menores de edad (0-17)",28
+2024,27,"Tabasco","Homicidio doloso","Mujer","Adultos (18 y más)",67
+2024,27,"Tabasco","Homicidio doloso","Mujer","Menores de edad (0-17)",0
+2024,28,"Tamaulipas","Homicidio doloso","Hombre","Adultos (18 y más)",214
+2024,28,"Tamaulipas","Homicidio doloso","Hombre","Menores de edad (0-17)",8
+2024,28,"Tamaulipas","Homicidio doloso","Mujer","Adultos (18 y más)",9
+2024,28,"Tamaulipas","Homicidio doloso","Mujer","Menores de edad (0-17)",2
+2024,29,"Tlaxcala","Homicidio doloso","Hombre","Adultos (18 y más)",108
+2024,29,"Tlaxcala","Homicidio doloso","Hombre","Menores de edad (0-17)",3
+2024,29,"Tlaxcala","Homicidio doloso","Mujer","Adultos (18 y más)",6
+2024,29,"Tlaxcala","Homicidio doloso","Mujer","Menores de edad (0-17)",1
+2024,30,"Veracruz de Ignacio de la Llave","Homicidio doloso","Hombre","Adultos (18 y más)",740
+2024,30,"Veracruz de Ignacio de la Llave","Homicidio doloso","Hombre","Menores de edad (0-17)",15
+2024,30,"Veracruz de Ignacio de la Llave","Homicidio doloso","Mujer","Adultos (18 y más)",66
+2024,30,"Veracruz de Ignacio de la Llave","Homicidio doloso","Mujer","Menores de edad (0-17)",3
+2024,31,"Yucatán","Homicidio doloso","Hombre","Adultos (18 y más)",41
+2024,31,"Yucatán","Homicidio doloso","Hombre","Menores de edad (0-17)",0
+2024,31,"Yucatán","Homicidio doloso","Mujer","Adultos (18 y más)",3
+2024,31,"Yucatán","Homicidio doloso","Mujer","Menores de edad (0-17)",0
+2024,32,"Zacatecas","Homicidio doloso","Hombre","Adultos (18 y más)",415
+2024,32,"Zacatecas","Homicidio doloso","Hombre","Menores de edad (0-17)",20
+2024,32,"Zacatecas","Homicidio doloso","Mujer","Adultos (18 y más)",33
+2024,32,"Zacatecas","Homicidio doloso","Mujer","Menores de edad (0-17)",4
+2025,1,"Aguascalientes","Homicidio doloso","Hombre","Adultos (18 y más)",50
+2025,1,"Aguascalientes","Homicidio doloso","Hombre","Menores de edad (0-17)",3
+2025,1,"Aguascalientes","Homicidio doloso","Mujer","Adultos (18 y más)",0
+2025,1,"Aguascalientes","Homicidio doloso","Mujer","Menores de edad (0-17)",0
+2025,2,"Baja California","Homicidio doloso","Hombre","Adultos (18 y más)",684
+2025,2,"Baja California","Homicidio doloso","Hombre","Menores de edad (0-17)",20
+2025,2,"Baja California","Homicidio doloso","Mujer","Adultos (18 y más)",91
+2025,2,"Baja California","Homicidio doloso","Mujer","Menores de edad (0-17)",3
+2025,3,"Baja California Sur","Homicidio doloso","Hombre","Adultos (18 y más)",31
+2025,3,"Baja California Sur","Homicidio doloso","Hombre","Menores de edad (0-17)",2
+2025,3,"Baja California Sur","Homicidio doloso","Mujer","Adultos (18 y más)",4
+2025,3,"Baja California Sur","Homicidio doloso","Mujer","Menores de edad (0-17)",0
+2025,4,"Campeche","Homicidio doloso","Hombre","Adultos (18 y más)",60
+2025,4,"Campeche","Homicidio doloso","Hombre","Menores de edad (0-17)",1
+2025,4,"Campeche","Homicidio doloso","Mujer","Adultos (18 y más)",1
+2025,4,"Campeche","Homicidio doloso","Mujer","Menores de edad (0-17)",0
+2025,5,"Coahuila de Zaragoza","Homicidio doloso","Hombre","Adultos (18 y más)",33
+2025,5,"Coahuila de Zaragoza","Homicidio doloso","Hombre","Menores de edad (0-17)",4
+2025,5,"Coahuila de Zaragoza","Homicidio doloso","Mujer","Adultos (18 y más)",3
+2025,5,"Coahuila de Zaragoza","Homicidio doloso","Mujer","Menores de edad (0-17)",0
+2025,6,"Colima","Homicidio doloso","Hombre","Adultos (18 y más)",153
+2025,6,"Colima","Homicidio doloso","Hombre","Menores de edad (0-17)",4
+2025,6,"Colima","Homicidio doloso","Mujer","Adultos (18 y más)",19
+2025,6,"Colima","Homicidio doloso","Mujer","Menores de edad (0-17)",1
+2025,7,"Chiapas","Homicidio doloso","Hombre","Adultos (18 y más)",152
+2025,7,"Chiapas","Homicidio doloso","Hombre","Menores de edad (0-17)",5
+2025,7,"Chiapas","Homicidio doloso","Mujer","Adultos (18 y más)",18
+2025,7,"Chiapas","Homicidio doloso","Mujer","Menores de edad (0-17)",3
+2025,8,"Chihuahua","Homicidio doloso","Hombre","Adultos (18 y más)",677
+2025,8,"Chihuahua","Homicidio doloso","Hombre","Menores de edad (0-17)",16
+2025,8,"Chihuahua","Homicidio doloso","Mujer","Adultos (18 y más)",42
+2025,8,"Chihuahua","Homicidio doloso","Mujer","Menores de edad (0-17)",2
+2025,9,"Ciudad de México","Homicidio doloso","Hombre","Adultos (18 y más)",383
+2025,9,"Ciudad de México","Homicidio doloso","Hombre","Menores de edad (0-17)",13
+2025,9,"Ciudad de México","Homicidio doloso","Mujer","Adultos (18 y más)",33
+2025,9,"Ciudad de México","Homicidio doloso","Mujer","Menores de edad (0-17)",1
+2025,10,"Durango","Homicidio doloso","Hombre","Adultos (18 y más)",27
+2025,10,"Durango","Homicidio doloso","Hombre","Menores de edad (0-17)",0
+2025,10,"Durango","Homicidio doloso","Mujer","Adultos (18 y más)",1
+2025,10,"Durango","Homicidio doloso","Mujer","Menores de edad (0-17)",0
+2025,11,"Guanajuato","Homicidio doloso","Hombre","Adultos (18 y más)",1059
+2025,11,"Guanajuato","Homicidio doloso","Hombre","Menores de edad (0-17)",64
+2025,11,"Guanajuato","Homicidio doloso","Mujer","Adultos (18 y más)",153
+2025,11,"Guanajuato","Homicidio doloso","Mujer","Menores de edad (0-17)",9
+2025,12,"Guerrero","Homicidio doloso","Hombre","Adultos (18 y más)",504
+2025,12,"Guerrero","Homicidio doloso","Hombre","Menores de edad (0-17)",22
+2025,12,"Guerrero","Homicidio doloso","Mujer","Adultos (18 y más)",45
+2025,12,"Guerrero","Homicidio doloso","Mujer","Menores de edad (0-17)",1
+2025,13,"Hidalgo","Homicidio doloso","Hombre","Adultos (18 y más)",77
+2025,13,"Hidalgo","Homicidio doloso","Hombre","Menores de edad (0-17)",2
+2025,13,"Hidalgo","Homicidio doloso","Mujer","Adultos (18 y más)",5
+2025,13,"Hidalgo","Homicidio doloso","Mujer","Menores de edad (0-17)",0
+2025,14,"Jalisco","Homicidio doloso","Hombre","Adultos (18 y más)",467
+2025,14,"Jalisco","Homicidio doloso","Hombre","Menores de edad (0-17)",12
+2025,14,"Jalisco","Homicidio doloso","Mujer","Adultos (18 y más)",51
+2025,14,"Jalisco","Homicidio doloso","Mujer","Menores de edad (0-17)",3
+2025,15,"México","Homicidio doloso","Hombre","Adultos (18 y más)",669
+2025,15,"México","Homicidio doloso","Hombre","Menores de edad (0-17)",5
+2025,15,"México","Homicidio doloso","Mujer","Adultos (18 y más)",67
+2025,15,"México","Homicidio doloso","Mujer","Menores de edad (0-17)",2
+2025,16,"Michoacán de Ocampo","Homicidio doloso","Hombre","Adultos (18 y más)",520
+2025,16,"Michoacán de Ocampo","Homicidio doloso","Hombre","Menores de edad (0-17)",27
+2025,16,"Michoacán de Ocampo","Homicidio doloso","Mujer","Adultos (18 y más)",64
+2025,16,"Michoacán de Ocampo","Homicidio doloso","Mujer","Menores de edad (0-17)",4
+2025,17,"Morelos","Homicidio doloso","Hombre","Adultos (18 y más)",438
+2025,17,"Morelos","Homicidio doloso","Hombre","Menores de edad (0-17)",18
+2025,17,"Morelos","Homicidio doloso","Mujer","Adultos (18 y más)",32
+2025,17,"Morelos","Homicidio doloso","Mujer","Menores de edad (0-17)",5
+2025,18,"Nayarit","Homicidio doloso","Hombre","Adultos (18 y más)",45
+2025,18,"Nayarit","Homicidio doloso","Hombre","Menores de edad (0-17)",0
+2025,18,"Nayarit","Homicidio doloso","Mujer","Adultos (18 y más)",3
+2025,18,"Nayarit","Homicidio doloso","Mujer","Menores de edad (0-17)",0
+2025,19,"Nuevo León","Homicidio doloso","Hombre","Adultos (18 y más)",308
+2025,19,"Nuevo León","Homicidio doloso","Hombre","Menores de edad (0-17)",19
+2025,19,"Nuevo León","Homicidio doloso","Mujer","Adultos (18 y más)",39
+2025,19,"Nuevo León","Homicidio doloso","Mujer","Menores de edad (0-17)",4
+2025,20,"Oaxaca","Homicidio doloso","Hombre","Adultos (18 y más)",279
+2025,20,"Oaxaca","Homicidio doloso","Hombre","Menores de edad (0-17)",7
+2025,20,"Oaxaca","Homicidio doloso","Mujer","Adultos (18 y más)",25
+2025,20,"Oaxaca","Homicidio doloso","Mujer","Menores de edad (0-17)",3
+2025,21,"Puebla","Homicidio doloso","Hombre","Adultos (18 y más)",330
+2025,21,"Puebla","Homicidio doloso","Hombre","Menores de edad (0-17)",13
+2025,21,"Puebla","Homicidio doloso","Mujer","Adultos (18 y más)",31
+2025,21,"Puebla","Homicidio doloso","Mujer","Menores de edad (0-17)",1
+2025,22,"Querétaro","Homicidio doloso","Hombre","Adultos (18 y más)",64
+2025,22,"Querétaro","Homicidio doloso","Hombre","Menores de edad (0-17)",5
+2025,22,"Querétaro","Homicidio doloso","Mujer","Adultos (18 y más)",6
+2025,22,"Querétaro","Homicidio doloso","Mujer","Menores de edad (0-17)",0
+2025,23,"Quintana Roo","Homicidio doloso","Hombre","Adultos (18 y más)",152
+2025,23,"Quintana Roo","Homicidio doloso","Hombre","Menores de edad (0-17)",3
+2025,23,"Quintana Roo","Homicidio doloso","Mujer","Adultos (18 y más)",10
+2025,23,"Quintana Roo","Homicidio doloso","Mujer","Menores de edad (0-17)",0
+2025,24,"San Luis Potosí","Homicidio doloso","Hombre","Adultos (18 y más)",116
+2025,24,"San Luis Potosí","Homicidio doloso","Hombre","Menores de edad (0-17)",8
+2025,24,"San Luis Potosí","Homicidio doloso","Mujer","Adultos (18 y más)",10
+2025,24,"San Luis Potosí","Homicidio doloso","Mujer","Menores de edad (0-17)",1
+2025,25,"Sinaloa","Homicidio doloso","Hombre","Adultos (18 y más)",678
+2025,25,"Sinaloa","Homicidio doloso","Hombre","Menores de edad (0-17)",25
+2025,25,"Sinaloa","Homicidio doloso","Mujer","Adultos (18 y más)",10
+2025,25,"Sinaloa","Homicidio doloso","Mujer","Menores de edad (0-17)",2
+2025,26,"Sonora","Homicidio doloso","Hombre","Adultos (18 y más)",447
+2025,26,"Sonora","Homicidio doloso","Hombre","Menores de edad (0-17)",10
+2025,26,"Sonora","Homicidio doloso","Mujer","Adultos (18 y más)",40
+2025,26,"Sonora","Homicidio doloso","Mujer","Menores de edad (0-17)",3
+2025,27,"Tabasco","Homicidio doloso","Hombre","Adultos (18 y más)",350
+2025,27,"Tabasco","Homicidio doloso","Hombre","Menores de edad (0-17)",6
+2025,27,"Tabasco","Homicidio doloso","Mujer","Adultos (18 y más)",15
+2025,27,"Tabasco","Homicidio doloso","Mujer","Menores de edad (0-17)",4
+2025,28,"Tamaulipas","Homicidio doloso","Hombre","Adultos (18 y más)",67
+2025,28,"Tamaulipas","Homicidio doloso","Hombre","Menores de edad (0-17)",1
+2025,28,"Tamaulipas","Homicidio doloso","Mujer","Adultos (18 y más)",2
+2025,28,"Tamaulipas","Homicidio doloso","Mujer","Menores de edad (0-17)",2
+2025,29,"Tlaxcala","Homicidio doloso","Hombre","Adultos (18 y más)",45
+2025,29,"Tlaxcala","Homicidio doloso","Hombre","Menores de edad (0-17)",0
+2025,29,"Tlaxcala","Homicidio doloso","Mujer","Adultos (18 y más)",2
+2025,29,"Tlaxcala","Homicidio doloso","Mujer","Menores de edad (0-17)",1
+2025,30,"Veracruz de Ignacio de la Llave","Homicidio doloso","Hombre","Adultos (18 y más)",389
+2025,30,"Veracruz de Ignacio de la Llave","Homicidio doloso","Hombre","Menores de edad (0-17)",8
+2025,30,"Veracruz de Ignacio de la Llave","Homicidio doloso","Mujer","Adultos (18 y más)",42
+2025,30,"Veracruz de Ignacio de la Llave","Homicidio doloso","Mujer","Menores de edad (0-17)",1
+2025,31,"Yucatán","Homicidio doloso","Hombre","Adultos (18 y más)",9
+2025,31,"Yucatán","Homicidio doloso","Hombre","Menores de edad (0-17)",1
+2025,31,"Yucatán","Homicidio doloso","Mujer","Adultos (18 y más)",2
+2025,31,"Yucatán","Homicidio doloso","Mujer","Menores de edad (0-17)",0
+2025,32,"Zacatecas","Homicidio doloso","Hombre","Adultos (18 y más)",85
+2025,32,"Zacatecas","Homicidio doloso","Hombre","Menores de edad (0-17)",6
+2025,32,"Zacatecas","Homicidio doloso","Mujer","Adultos (18 y más)",10
+2025,32,"Zacatecas","Homicidio doloso","Mujer","Menores de edad (0-17)",0
