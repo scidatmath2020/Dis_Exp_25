@@ -1,0 +1,6 @@
+f,minus_one,plus_one
+Feed rate (L/min),10,15
+Catalyst (%),1,2
+Agitation speed (rpm),100,120
+Temperature (°C),140,180
+Concentration (%),3,6
